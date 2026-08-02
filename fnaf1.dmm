@@ -345,7 +345,7 @@
 	dir = 4
 	},
 /obj/effect/landmark{
-	name = "cam_room"
+	name = "player_spawn"
 	},
 /obj/machinery/button/door/directional/north{
 	pixel_y = 55
