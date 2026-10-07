@@ -317,7 +317,7 @@
 "va" = (
 /obj/effect/turf_decal/bot,
 /obj/effect/landmark{
-	name = "lobby_spawn"
+	name = "ph_lobby_spawn"
 	},
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
@@ -382,7 +382,7 @@
 /area/awaymission/secret/powered)
 "yA" = (
 /obj/effect/landmark{
-	name = "hunter_spawn"
+	name = "ph_hunter_spawn"
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
@@ -686,7 +686,7 @@
 /area/awaymission/secret/powered)
 "TF" = (
 /obj/effect/landmark{
-	name = "prop_spawn"
+	name = "ph_prop_spawn"
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
