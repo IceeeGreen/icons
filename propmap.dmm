@@ -337,6 +337,9 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
+"ws" = (
+/turf/template_noop,
+/area/awaymission/secret/powered)
 "wu" = (
 /obj/machinery/light/warm/dim/directional/north,
 /obj/effect/turf_decal/bot,
@@ -825,7 +828,7 @@ yq
 yq
 yq
 yq
-ly
+ws
 "}
 (2,1,1) = {"
 yq
