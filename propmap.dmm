@@ -1,22 +1,22 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"aa" = (
+"aaa" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/holosign/barrier,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"ac" = (
+"aac" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"al" = (
+"aal" = (
 /obj/machinery/door/airlock/maintenance/glass,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"aS" = (
+"aaS" = (
 /obj/machinery/holopad,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -26,7 +26,7 @@
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"br" = (
+"abr" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner{
 	dir = 1
@@ -34,7 +34,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"by" = (
+"aby" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/computer/monitor{
 	dir = 4
@@ -42,7 +42,7 @@
 /obj/effect/mapping_helpers/broken_machine,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"bN" = (
+"abN" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
@@ -52,12 +52,12 @@
 	},
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"bY" = (
+"abY" = (
 /obj/structure/sign/clock/directional/north,
 /obj/structure/bookcase/random,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"ce" = (
+"ace" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 6
@@ -65,19 +65,19 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ci" = (
+"aci" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"cz" = (
+"acz" = (
 /obj/structure/broken_flooring/singular/always_floorplane/directional/north,
 /obj/item/kirbyplants/random,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"cW" = (
+"acW" = (
 /obj/structure/hedge/opaque,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/structure/fluff/fake_camera{
@@ -85,7 +85,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"dh" = (
+"adh" = (
 /obj/effect/turf_decal/siding/dark{
 	dir = 8
 	},
@@ -104,17 +104,17 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark/textured,
 /area/awaymission/secret/powered)
-"dz" = (
+"adz" = (
 /obj/item/kirbyplants/random,
 /obj/effect/decal/cleanable/ants,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"dE" = (
+"adE" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/sign/poster/contraband/random/directional/east,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"dH" = (
+"adH" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -122,7 +122,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"dI" = (
+"adI" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/structure/sign/painting/large{
 	dir = 1;
@@ -131,14 +131,14 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"dM" = (
+"adM" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 6
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"dW" = (
+"adW" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -153,31 +153,31 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ee" = (
+"aee" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"em" = (
+"aem" = (
 /obj/structure/fluff/fake_camera{
 	dir = 5
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"er" = (
+"aer" = (
 /obj/structure/flora/bush/large{
 	pixel_y = -2
 	},
 /obj/structure/flora/bush/fullgrass,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"eu" = (
+"aeu" = (
 /obj/structure/chair/sofa/bench/right,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ex" = (
+"aex" = (
 /obj/structure/rack,
 /obj/item/clothing/under/misc/mailman,
 /obj/item/clothing/under/misc/vice_officer,
@@ -185,13 +185,13 @@
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"eQ" = (
+"aeQ" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"eX" = (
+"aeX" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -202,7 +202,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"fd" = (
+"afd" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/turf_decal/stripes/corner,
 /obj/structure/sign/warning/doors/directional/south,
@@ -211,17 +211,17 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fh" = (
+"afh" = (
 /obj/effect/spawner/random/trash/moisture_trap,
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fq" = (
+"afq" = (
 /obj/effect/spawner/random/structure/tank_holder,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fr" = (
+"afr" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
@@ -231,26 +231,26 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"fy" = (
+"afy" = (
 /obj/item/kirbyplants/random,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fG" = (
+"afG" = (
 /obj/structure/chair/sofa/bench/left,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fJ" = (
+"afJ" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
 /obj/structure/railing/corner,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"fM" = (
+"afM" = (
 /obj/structure/flora/rock/pile/style_2,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"fO" = (
+"afO" = (
 /obj/structure/table,
 /obj/item/storage/crayons{
 	pixel_x = 2;
@@ -261,34 +261,34 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"fU" = (
+"afU" = (
 /obj/structure/chair/sofa/bench/solo{
 	dir = 1
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ge" = (
+"age" = (
 /obj/effect/decal/cleanable/garbage,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"gg" = (
+"agg" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"gC" = (
+"agC" = (
 /obj/structure/closet/emcloset,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"gL" = (
+"agL" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"gO" = (
+"agO" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -298,7 +298,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"gT" = (
+"agT" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -309,16 +309,16 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"gU" = (
+"agU" = (
 /turf/open/floor/mineral/bananium/airless,
 /area/awaymission/secret/powered)
-"ha" = (
+"aha" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"hp" = (
+"ahp" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 10
@@ -326,18 +326,12 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ht" = (
+"aht" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/engineering/canister,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"hA" = (
-/obj/structure/broken_flooring/singular/always_floorplane{
-	dir = 4
-	},
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"hH" = (
+"ahH" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock/maintenance,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -347,36 +341,29 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ia" = (
+"aia" = (
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ic" = (
+"aic" = (
 /mob/living/basic/clown/longface{
 	ai_controller = null
 	},
 /turf/open/floor/mineral/bananium/airless,
 /area/awaymission/secret/powered)
-"iq" = (
+"aiq" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 10
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"iy" = (
+"aiy" = (
 /obj/structure/hedge/opaque,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"iG" = (
-/obj/structure/broken_flooring/singular/always_floorplane{
-	dir = 4
-	},
-/obj/effect/light_emitter,
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"iL" = (
+"aiL" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -384,18 +371,18 @@
 /obj/structure/fluff/fake_camera,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"iN" = (
+"aiN" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"iV" = (
+"aiV" = (
 /obj/effect/mapping_helpers/airlock/unres/delayed{
 	dir = 8
 	},
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"jb" = (
+"ajb" = (
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
 /obj/structure/railing/corner/end{
@@ -403,7 +390,7 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"jc" = (
+"ajc" = (
 /obj/structure/fluff/wallsign/directional/west{
 	name = "History of Nanotrasen"
 	},
@@ -414,7 +401,7 @@
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ji" = (
+"aji" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -424,13 +411,13 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"jl" = (
+"ajl" = (
 /obj/effect/decal/cleanable/ants,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"jq" = (
+"ajq" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/effect/decal/cleanable/food/plant_smudge,
 /obj/structure/disposalpipe/segment{
@@ -438,15 +425,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"jx" = (
-/obj/structure/table,
-/obj/effect/spawner/random/food_or_drink/refreshing_beverage{
-	pixel_x = -4;
-	pixel_y = 3
-	},
-/turf/open/floor/plating,
-/area/awaymission/secret/powered)
-"jA" = (
+"ajA" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -454,17 +433,17 @@
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"jD" = (
+"ajD" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"kh" = (
+"akh" = (
 /obj/structure/fluff/fake_vent,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"km" = (
+"akm" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/item/kirbyplants/random,
@@ -473,7 +452,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"kn" = (
+"akn" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -484,7 +463,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"kx" = (
+"akx" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/structure/sign/poster/random/directional/north,
@@ -495,7 +474,7 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"ky" = (
+"aky" = (
 /obj/structure/cable,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -505,26 +484,26 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"kC" = (
+"akC" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"kI" = (
+"akI" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 10
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"kP" = (
+"akP" = (
 /obj/structure/hedge/opaque,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"kW" = (
+"akW" = (
 /obj/machinery/holopad,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/trimline/dark/warning,
@@ -533,23 +512,23 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"ll" = (
+"all" = (
 /obj/structure/sign/poster/random/directional/east,
 /obj/structure/cable,
 /obj/effect/spawner/random/maintenance,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"lw" = (
+"alw" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/item/storage/box/stickers/googly,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ly" = (
+"aly" = (
 /turf/template_noop,
 /area/template_noop)
-"lB" = (
+"alB" = (
 /obj/structure/table/wood,
 /obj/item/paper/crumpled{
 	pixel_x = -7;
@@ -560,12 +539,12 @@
 	},
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"lC" = (
+"alC" = (
 /obj/effect/spawner/random/engineering/tool,
 /obj/structure/table_frame,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"lU" = (
+"alU" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
 	},
@@ -573,14 +552,14 @@
 /obj/machinery/camera/autoname/directional/west,
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"lY" = (
+"alY" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"mf" = (
+"amf" = (
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
 /obj/structure/railing{
@@ -591,23 +570,23 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"mo" = (
+"amo" = (
 /obj/effect/turf_decal/siding/wood/end{
 	dir = 1
 	},
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"mx" = (
+"amx" = (
 /obj/effect/turf_decal/bot/left,
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"mD" = (
+"amD" = (
 /obj/effect/spawner/random/vending/snackvend,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"mF" = (
+"amF" = (
 /obj/structure/rack,
 /obj/item/reagent_containers/cup/bottle/potassium{
 	pixel_x = 7;
@@ -623,7 +602,7 @@
 /obj/effect/turf_decal/trimline/yellow,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"mM" = (
+"amM" = (
 /obj/structure/flora/bush/lavendergrass/style_random,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
@@ -636,7 +615,7 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"mS" = (
+"amS" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
@@ -644,7 +623,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"nd" = (
+"and" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 4
 	},
@@ -657,7 +636,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"nt" = (
+"ant" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -667,7 +646,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"nx" = (
+"anx" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -678,23 +657,23 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"nz" = (
+"anz" = (
 /obj/item/kirbyplants/random,
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"nI" = (
+"anI" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"nJ" = (
+"anJ" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner{
 	dir = 8
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"nU" = (
+"anU" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -704,11 +683,11 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"oo" = (
+"aoo" = (
 /obj/structure/closet/firecloset,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"os" = (
+"aos" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/kirbyplants/random,
 /obj/effect/turf_decal/weather/dirt{
@@ -716,7 +695,7 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"ov" = (
+"aov" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/side/directional/north{
 	color = "#73737a"
@@ -726,7 +705,7 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"oA" = (
+"aoA" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -734,7 +713,7 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ps" = (
+"aps" = (
 /obj/machinery/airalarm/directional/west,
 /obj/structure/rack,
 /obj/item/reagent_containers/cup/bottle/mercury{
@@ -753,17 +732,17 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"pu" = (
+"apu" = (
 /obj/effect/spawner/random/vending/colavend,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"pA" = (
+"apA" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 6
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"pE" = (
+"apE" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -773,23 +752,23 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"pG" = (
+"apG" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"pJ" = (
+"apJ" = (
 /obj/effect/spawner/random/trash/caution_sign,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 8
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"pW" = (
+"apW" = (
 /turf/closed/indestructible/fakedoor,
 /area/awaymission/secret/powered)
-"pX" = (
+"apX" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -799,7 +778,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"qb" = (
+"aqb" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -809,7 +788,7 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"qf" = (
+"aqf" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -819,35 +798,35 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"qh" = (
+"aqh" = (
 /obj/effect/decal/cleanable/generic,
 /obj/structure/broken_flooring/singular/directional/north,
 /obj/machinery/light/small/directional/south,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"qk" = (
+"aqk" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/flashlight/lantern/on,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"qz" = (
+"aqz" = (
 /obj/structure/table,
 /obj/effect/spawner/random/bureaucracy/folder,
 /obj/effect/spawner/random/bureaucracy/pen,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"qG" = (
+"aqG" = (
 /obj/effect/decal/cleanable/blood/oil,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/sign/warning/electric_shock/directional/east,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"qR" = (
+"aqR" = (
 /obj/machinery/skill_station,
 /obj/effect/turf_decal/bot_red,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"qW" = (
+"aqW" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/item/toy/balloon/corgi,
@@ -857,18 +836,18 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ra" = (
+"ara" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"rd" = (
+"ard" = (
 /obj/structure/flora/rock/pile,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"re" = (
+"are" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/glass,
 /obj/structure/cable,
@@ -876,49 +855,49 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"rw" = (
+"arw" = (
 /obj/structure/grille/broken,
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"rC" = (
+"arC" = (
 /obj/structure/grille/broken,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"rL" = (
+"arL" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/trash/janitor_supplies,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"rU" = (
+"arU" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/singular/directional/north,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"rX" = (
+"arX" = (
 /obj/structure/broken_flooring/singular/always_floorplane/directional/east,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"so" = (
+"aso" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"sq" = (
+"asq" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"sC" = (
+"asC" = (
 /obj/structure/closet/firecloset,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"sJ" = (
+"asJ" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/singular/directional/east,
 /obj/structure/disposalpipe/segment{
@@ -926,11 +905,11 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"sU" = (
+"asU" = (
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"sX" = (
+"asX" = (
 /obj/effect/turf_decal/siding/wood/corner,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 4
@@ -943,39 +922,29 @@
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"tb" = (
+"atb" = (
 /obj/structure/chair/comfy/black{
 	dir = 1
 	},
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"tj" = (
+"atj" = (
 /obj/structure/table/wood/fancy/royalblack,
 /obj/item/storage/fancy/heart_box,
 /obj/effect/spawner/random/decoration/flower,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"tG" = (
-/obj/effect/turf_decal/weather/dirt{
-	dir = 4
-	},
-/obj/structure/flora/bush/large{
-	pixel_y = -2
-	},
-/obj/structure/flora/bush/fullgrass,
-/turf/open/floor/grass,
-/area/awaymission/secret/powered)
-"tY" = (
+"atY" = (
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"uw" = (
+"auw" = (
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/effect/spawner/random/engineering/atmospherics_portable,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"uR" = (
+"auR" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -984,14 +953,14 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"va" = (
+"ava" = (
 /obj/effect/turf_decal/bot,
 /obj/effect/landmark{
 	name = "ph_lobby_spawn"
 	},
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"vg" = (
+"avg" = (
 /obj/structure/flora/bush/lavendergrass/style_random,
 /obj/item/clothing/head/cone{
 	pixel_x = -6
@@ -1001,42 +970,36 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"vi" = (
+"avi" = (
 /obj/structure/grille,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"vn" = (
+"avn" = (
 /obj/effect/decal/cleanable/blood/oil,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"vr" = (
+"avr" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"vB" = (
-/obj/structure/broken_flooring/singular/always_floorplane{
-	dir = 8
-	},
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"vK" = (
+"avK" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"vS" = (
+"avS" = (
 /obj/structure/broken_flooring/side/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"vT" = (
+"avT" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"wl" = (
+"awl" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/structure/sign/painting{
 	pixel_y = 32;
@@ -1047,21 +1010,21 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ws" = (
+"aws" = (
 /turf/template_noop,
 /area/awaymission/secret/powered)
-"wu" = (
+"awu" = (
 /obj/machinery/light/warm/dim/directional/north,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"wM" = (
+"awM" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"wO" = (
+"awO" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/chair/sofa/bench/right{
@@ -1069,55 +1032,55 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"wR" = (
+"awR" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"xg" = (
+"axg" = (
 /obj/effect/decal/cleanable/generic,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"xl" = (
+"axl" = (
 /obj/effect/spawner/random/maintenance,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
 	},
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"xm" = (
+"axm" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"xt" = (
+"axt" = (
 /obj/effect/spawner/structure/window/reinforced/tinted,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"xu" = (
+"axu" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 4
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"xE" = (
+"axE" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"xG" = (
+"axG" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"xL" = (
+"axL" = (
 /obj/structure/chair/wood,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/landmark{
@@ -1128,7 +1091,7 @@
 	},
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"xS" = (
+"axS" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/spawner/random/trash/cigbutt,
@@ -1137,17 +1100,17 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"xX" = (
+"axX" = (
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"ya" = (
+"aya" = (
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"yq" = (
+"ayq" = (
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"yz" = (
+"ayz" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
@@ -1160,10 +1123,10 @@
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"yA" = (
+"ayA" = (
 /turf/closed/wall,
 /area/awaymission/secret/powered)
-"yR" = (
+"ayR" = (
 /obj/effect/turf_decal/siding/wood/corner,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 8
@@ -1174,17 +1137,17 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"yV" = (
+"ayV" = (
 /obj/structure/cable,
 /obj/machinery/light/small/red/directional/west,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"yW" = (
+"ayW" = (
 /turf/open/floor/catwalk_floor/iron_smooth,
 /area/awaymission/secret/powered)
-"yZ" = (
+"ayZ" = (
 /obj/effect/spawner/random/trash/garbage,
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
@@ -1192,7 +1155,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"zb" = (
+"azb" = (
 /obj/effect/spawner/random/trash/janitor_supplies,
 /obj/structure/rack,
 /obj/structure/cable,
@@ -1202,7 +1165,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"zd" = (
+"azd" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair{
 	dir = 1
@@ -1210,7 +1173,7 @@
 /obj/machinery/digital_clock/directional/south,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"zi" = (
+"azi" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 4
 	},
@@ -1218,25 +1181,20 @@
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"zs" = (
-/obj/structure/flora/bush/grassy/style_random,
-/obj/structure/flora/bush/flowers_br/style_2,
-/turf/open/floor/grass,
-/area/awaymission/secret/powered)
-"zw" = (
+"azw" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"zy" = (
+"azy" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"zN" = (
+"azN" = (
 /obj/structure/hedge/opaque,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/structure/fluff/fake_camera{
@@ -1244,14 +1202,14 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ao" = (
+"aAo" = (
 /turf/cordon,
 /area/misc/cordon)
-"Ax" = (
+"aAx" = (
 /obj/effect/spawner/random/trash/grille_or_waste,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"AB" = (
+"aAB" = (
 /obj/structure/railing{
 	dir = 4
 	},
@@ -1263,7 +1221,7 @@
 /obj/structure/flora/bush/flowers_yw/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"AC" = (
+"aAC" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
 	},
@@ -1272,14 +1230,14 @@
 	},
 /turf/open/water,
 /area/awaymission/secret/powered)
-"AJ" = (
+"aAJ" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 5
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"AN" = (
+"aAN" = (
 /obj/effect/turf_decal/trimline/yellow/warning{
 	dir = 10
 	},
@@ -1289,13 +1247,13 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Bb" = (
+"aBb" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Bj" = (
+"aBj" = (
 /obj/structure/closet,
 /obj/effect/spawner/random/maintenance/two,
 /obj/structure/cable,
@@ -1304,14 +1262,14 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Br" = (
+"aBr" = (
 /obj/effect/turf_decal/trimline/yellow/warning{
 	dir = 9
 	},
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"BB" = (
+"aBB" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -1322,28 +1280,28 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"BC" = (
+"aBC" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"BG" = (
+"aBG" = (
 /obj/structure/table/reinforced,
 /obj/effect/spawner/random/engineering/toolbox,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"BI" = (
+"aBI" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood/corner,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"BL" = (
+"aBL" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"BU" = (
+"aBU" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/spawner/random/entertainment/dice,
@@ -1352,7 +1310,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Cd" = (
+"aCd" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue,
 /obj/structure/fluff/wallsign/directional/north{
@@ -1365,13 +1323,13 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ch" = (
+"aCh" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/catwalk_floor/iron_smooth,
 /area/awaymission/secret/powered)
-"Cl" = (
+"aCl" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
 /obj/machinery/light/small/red/directional/west,
@@ -1379,15 +1337,15 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Cv" = (
+"aCv" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Cz" = (
+"aCz" = (
 /obj/structure/broken_flooring/singular/directional/east,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"CJ" = (
+"aCJ" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
@@ -1396,20 +1354,20 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"CM" = (
+"aCM" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"CN" = (
+"aCN" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/maintenance/two,
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"CQ" = (
+"aCQ" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -1419,7 +1377,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"CX" = (
+"aCX" = (
 /obj/structure/chair/sofa/right/brown,
 /obj/item/toy/plush/moth{
 	pixel_x = -3;
@@ -1428,24 +1386,24 @@
 /obj/machinery/digital_clock/directional/north,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"Dl" = (
+"aDl" = (
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/machinery/light/small/directional/north,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"Do" = (
+"aDo" = (
 /obj/structure/closet/crate/trashcart/filled,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/sign/calendar/directional/south,
 /obj/effect/spawner/random/trash/soap,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Dw" = (
+"aDw" = (
 /obj/effect/decal/cleanable/food/egg_smudge,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"Dz" = (
+"aDz" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner{
 	dir = 4
@@ -1455,25 +1413,25 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"DE" = (
+"aDE" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"DK" = (
+"aDK" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 8
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Ee" = (
+"aEe" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"Eh" = (
+"aEh" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1485,24 +1443,24 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Em" = (
+"aEm" = (
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Ev" = (
+"aEv" = (
 /obj/machinery/vending/coffee,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Ey" = (
+"aEy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"EN" = (
+"aEN" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"EQ" = (
+"aEQ" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
@@ -1512,7 +1470,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"EZ" = (
+"aEZ" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "maintmechbay";
 	name = "Mech Bay Shutters"
@@ -1524,42 +1482,42 @@
 	dir = 1
 	},
 /area/awaymission/secret/powered)
-"Fc" = (
+"aFc" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Fr" = (
+"aFr" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"FG" = (
+"aFG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/machinery/door/airlock/maintenance,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"FM" = (
+"aFM" = (
 /obj/effect/decal/cleanable/blood/oil,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"FP" = (
+"aFP" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /obj/structure/chair/office,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"FS" = (
+"aFS" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/garbage,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"FU" = (
+"aFU" = (
 /obj/effect/spawner/random/trash/graffiti{
 	random_icon = 0
 	},
@@ -1569,63 +1527,55 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"FV" = (
+"aFV" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Gb" = (
+"aGb" = (
 /obj/structure/broken_flooring/singular/directional/north,
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Ge" = (
-/obj/effect/mapping_helpers/broken_floor,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/iron,
-/area/awaymission/secret/powered)
-"Gi" = (
+"aGi" = (
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/effect/turf_decal/delivery,
 /obj/structure/mecha_wreckage/ripley,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"Gj" = (
+"aGj" = (
 /obj/structure/extinguisher_cabinet/directional/east,
 /obj/machinery/vending/games,
 /obj/effect/turf_decal/bot_red,
 /obj/item/radio/intercom/directional/north,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"Gq" = (
+"aGq" = (
 /obj/structure/curtain/cloth{
 	color = "#36373a"
 	},
 /obj/effect/spawner/structure/window/reinforced/indestructible,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Gv" = (
+"aGv" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/sign/poster/official/cleanliness/directional/east,
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"GD" = (
+"aGD" = (
 /obj/effect/turf_decal/trimline/brown/warning{
 	dir = 4
 	},
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"GQ" = (
+"aGQ" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"GT" = (
+"aGT" = (
 /obj/structure/marker_beacon/lime,
 /obj/structure/flora/bush/large/style_2{
 	pixel_x = -2
@@ -1634,31 +1584,31 @@
 /obj/item/food/salad/spring_salad,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Hl" = (
+"aHl" = (
 /obj/machinery/mech_bay_recharge_port{
 	dir = 8
 	},
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"Hq" = (
+"aHq" = (
 /obj/structure/sign/poster/random/directional/north,
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"Hv" = (
+"aHv" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"HK" = (
+"aHK" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 6
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"HM" = (
+"aHM" = (
 /obj/effect/spawner/random/trash/garbage,
 /obj/structure/sign/poster/random/directional/north,
 /obj/effect/mapping_helpers/broken_floor,
@@ -1666,11 +1616,11 @@
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"HO" = (
+"aHO" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"HU" = (
+"aHU" = (
 /obj/effect/turf_decal/siding/dark/end{
 	dir = 1
 	},
@@ -1682,13 +1632,13 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/iron/dark/textured,
 /area/awaymission/secret/powered)
-"HW" = (
+"aHW" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/item/reagent_containers/cup/soda_cans/air,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ig" = (
+"aIg" = (
 /obj/effect/turf_decal/trimline/yellow/filled/line{
 	dir = 4
 	},
@@ -1705,7 +1655,7 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark/textured,
 /area/awaymission/secret/powered)
-"Ii" = (
+"aIi" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1717,7 +1667,7 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Ip" = (
+"aIp" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/singular/directional/north,
 /obj/structure/disposalpipe/segment{
@@ -1725,35 +1675,35 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Ir" = (
+"aIr" = (
 /obj/effect/spawner/random/trash/mopbucket,
 /obj/structure/sign/poster/random/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"IF" = (
+"aIF" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"IG" = (
+"aIG" = (
 /obj/structure/chair/plastic{
 	dir = 8
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"IJ" = (
+"aIJ" = (
 /obj/machinery/door/poddoor/shutters/indestructible{
 	dir = 4;
 	id = "nothing"
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"IO" = (
+"aIO" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/kirbyplants/random,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"IZ" = (
+"aIZ" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/chair/sofa/bench/left{
@@ -1761,22 +1711,22 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Jb" = (
+"aJb" = (
 /turf/open/indestructible/binary,
 /area/awaymission/secret/powered)
-"Jf" = (
+"aJf" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 9
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ji" = (
+"aJi" = (
 /obj/structure/sink/directional/east,
 /obj/structure/mirror/directional/west,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"JV" = (
+"aJV" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -1786,14 +1736,14 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"JW" = (
+"aJW" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 4
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"JZ" = (
+"aJZ" = (
 /obj/machinery/newscaster/directional/south,
 /obj/item/storage/crayons,
 /obj/item/toy/crayon/spraycan{
@@ -1807,11 +1757,11 @@
 	},
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"Kh" = (
+"aKh" = (
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Kn" = (
+"aKn" = (
 /obj/structure/sign/poster/random/directional/south,
 /obj/structure/easel,
 /obj/item/canvas/twentythree_nineteen{
@@ -1821,13 +1771,13 @@
 /obj/machinery/computer/security/telescreen/entertainment/directional/east,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"KC" = (
+"aKC" = (
 /obj/effect/turf_decal/trimline/yellow/warning{
 	dir = 5
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"KG" = (
+"aKG" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/door/poddoor/shutters{
 	id = "maintmechbay";
@@ -1837,22 +1787,22 @@
 	dir = 1
 	},
 /area/awaymission/secret/powered)
-"KW" = (
+"aKW" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/rack,
 /obj/effect/spawner/random/engineering/toolbox,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Lj" = (
+"aLj" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Lp" = (
+"aLp" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/caution_sign,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Lr" = (
+"aLr" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -1861,7 +1811,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Lw" = (
+"aLw" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -1872,22 +1822,22 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"LE" = (
+"aLE" = (
 /obj/effect/spawner/random/trash/grime,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"LH" = (
+"aLH" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"LN" = (
+"aLN" = (
 /obj/structure/broken_flooring/singular/always_floorplane/directional/north,
 /obj/structure/chair/stool/bar/directional/west,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Mm" = (
+"aMm" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1897,7 +1847,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"MG" = (
+"aMG" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 9
@@ -1905,7 +1855,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"MI" = (
+"aMI" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner{
 	dir = 4
@@ -1915,7 +1865,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ML" = (
+"aML" = (
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
 /obj/structure/flora/bush/flowers_yw,
@@ -1924,25 +1874,25 @@
 /obj/effect/turf_decal/weather/dirt,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"MO" = (
+"aMO" = (
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"MP" = (
+"aMP" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue,
 /obj/machinery/light/warm/directional/north,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Nc" = (
+"aNc" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
 	},
 /obj/effect/turf_decal/weather/dirt,
 /turf/open/water,
 /area/awaymission/secret/powered)
-"Nf" = (
+"aNf" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue,
 /obj/machinery/door/poddoor/shutters/indestructible{
@@ -1951,40 +1901,40 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ni" = (
+"aNi" = (
 /obj/structure/cable,
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"Nk" = (
+"aNk" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Nn" = (
+"aNn" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Nq" = (
+"aNq" = (
 /obj/effect/turf_decal/bot/right,
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"NH" = (
+"aNH" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"NI" = (
+"aNI" = (
 /obj/machinery/door/airlock/maintenance,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"NV" = (
+"aNV" = (
 /obj/item/shovel,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"Of" = (
+"aOf" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/singular/directional/east,
 /obj/structure/disposalpipe/segment{
@@ -1992,13 +1942,13 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"On" = (
+"aOn" = (
 /obj/machinery/door/poddoor/shutters/indestructible{
 	id = "museum_secret"
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Op" = (
+"aOp" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/structure/sign/painting{
 	pixel_y = 32;
@@ -2008,11 +1958,11 @@
 /obj/machinery/light/floor,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Pc" = (
+"aPc" = (
 /obj/structure/flora/bush/fullgrass,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Pd" = (
+"aPd" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/caution{
 	dir = 1
@@ -2023,12 +1973,12 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Pi" = (
+"aPi" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/generic,
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
-"Pq" = (
+"aPq" = (
 /obj/structure/sign/poster/random/directional/south,
 /obj/structure/easel,
 /obj/item/canvas/twentythree_nineteen{
@@ -2037,7 +1987,7 @@
 	},
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"PO" = (
+"aPO" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner,
 /obj/structure/chair/sofa/bench/right{
@@ -2045,7 +1995,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"PR" = (
+"aPR" = (
 /obj/structure/fluff/wallsign/directional/west{
 	name = "History of Nanotrasen"
 	},
@@ -2057,31 +2007,31 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Qa" = (
+"aQa" = (
 /obj/structure/cable,
 /obj/machinery/light/small/red/directional/west,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Qe" = (
+"aQe" = (
 /obj/structure/hedge,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Qo" = (
+"aQo" = (
 /obj/effect/turf_decal/siding/wood/end,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"Qv" = (
+"aQv" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Qw" = (
+"aQw" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
@@ -2093,14 +2043,14 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Qx" = (
+"aQx" = (
 /obj/structure/fluff/fake_scrubber,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"QC" = (
+"aQC" = (
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"QJ" = (
+"aQJ" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -2109,14 +2059,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"QP" = (
-/obj/structure/flora/bush/fullgrass,
-/obj/structure/flora/bush/grassy/style_random,
-/obj/structure/flora/bush/lavendergrass/style_random,
-/obj/structure/flora/bush/flowers_br/style_2,
-/turf/open/floor/grass,
-/area/awaymission/secret/powered)
-"QR" = (
+"aQR" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -2124,7 +2067,7 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Rd" = (
+"aRd" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /obj/structure/chair/stool/directional/south,
@@ -2132,12 +2075,12 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Ry" = (
+"aRy" = (
 /obj/structure/sign/poster/random/directional/west,
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"RB" = (
+"aRB" = (
 /obj/structure/sign/poster/random/directional/north,
 /obj/structure/table/wood,
 /obj/machinery/computer/libraryconsole{
@@ -2145,7 +2088,7 @@
 	},
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"RH" = (
+"aRH" = (
 /obj/effect/spawner/random/trash/graffiti{
 	random_icon = 0
 	},
@@ -2155,18 +2098,18 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"RZ" = (
+"aRZ" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/broken_flooring/singular/always_floorplane/directional/east,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Sj" = (
+"aSj" = (
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"SF" = (
+"aSF" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
 	},
@@ -2181,7 +2124,7 @@
 	},
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"SH" = (
+"aSH" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
 	},
@@ -2191,19 +2134,19 @@
 	},
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"SK" = (
+"aSK" = (
 /obj/structure/sign/poster/random/directional/north,
 /obj/structure/table/wood,
 /obj/item/flashlight/lamp,
 /obj/machinery/computer/security/telescreen/entertainment/directional/east,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"SP" = (
+"aSP" = (
 /obj/effect/decal/cleanable/cobweb,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"SW" = (
+"aSW" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
@@ -2212,12 +2155,12 @@
 /obj/structure/sign/poster/contraband/random/directional/west,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"Tb" = (
+"aTb" = (
 /obj/machinery/power/port_gen/pacman/pre_loaded,
 /obj/structure/sign/poster/random/directional/north,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Te" = (
+"aTe" = (
 /obj/structure/table/reinforced,
 /obj/item/storage/box/beakers{
 	pixel_y = 7
@@ -2229,40 +2172,29 @@
 /obj/structure/cable,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Tv" = (
-/obj/effect/light_emitter,
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"TF" = (
+"aTF" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"TL" = (
+"aTL" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wideplating{
 	dir = 1
 	},
 /turf/open/floor/iron/dark/diagonal,
 /area/awaymission/secret/powered)
-"TO" = (
+"aTO" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/item/reagent_containers/cup/soda_cans/sol_dry,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Ui" = (
-/obj/structure/broken_flooring/side/always_floorplane/directional/north,
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"Ul" = (
-/turf/open/floor/black,
-/area/awaymission/secret/powered)
-"Um" = (
+"aUm" = (
 /obj/effect/spawner/random/vending/colavend,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"Un" = (
+"aUn" = (
 /obj/effect/turf_decal/trimline/yellow/filled/line,
 /obj/effect/turf_decal/trimline/yellow/filled/line{
 	dir = 1
@@ -2276,26 +2208,19 @@
 	},
 /turf/open/floor/iron/dark/textured,
 /area/awaymission/secret/powered)
-"Us" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/awaymission/secret/powered)
-"UJ" = (
+"aUJ" = (
 /obj/structure/cable,
 /obj/structure/broken_flooring/singular/always_floorplane/directional/east,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"UK" = (
+"aUK" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"UO" = (
+"aUO" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/structure/sign/painting/large{
 	dir = 1;
@@ -2303,14 +2228,14 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Vn" = (
+"aVn" = (
 /turf/open/mirage{
 	dir = 8;
 	range = 2;
 	target_turf_x = 4
 	},
 /area/awaymission/secret/powered)
-"Vs" = (
+"aVs" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/flare/candle{
 	pixel_y = 3
@@ -2324,7 +2249,7 @@
 	},
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"Vx" = (
+"aVx" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 4
 	},
@@ -2333,34 +2258,34 @@
 	},
 /turf/open/water,
 /area/awaymission/secret/powered)
-"VK" = (
+"aVK" = (
 /obj/structure/chair/comfy/black,
 /turf/open/floor/wood/large,
 /area/awaymission/secret/powered)
-"VP" = (
+"aVP" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
 	},
 /obj/item/kirbyplants/organic/plant22,
 /turf/open/floor/carpet/red,
 /area/awaymission/secret/powered)
-"VS" = (
+"aVS" = (
 /obj/structure/chair/sofa/left/brown,
 /obj/structure/sign/poster/official/no_erp/directional/north,
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"VV" = (
+"aVV" = (
 /obj/effect/spawner/random/structure/crate,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"We" = (
+"aWe" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Wh" = (
+"aWh" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -2369,7 +2294,7 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Wq" = (
+"aWq" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 8
@@ -2377,17 +2302,13 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"WA" = (
-/obj/effect/light_emitter,
-/turf/closed/indestructible/reinforced,
-/area/awaymission/secret/powered)
-"WF" = (
+"aWF" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 4
 	},
 /turf/open/water,
 /area/awaymission/secret/powered)
-"WO" = (
+"aWO" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 4
@@ -2397,13 +2318,13 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"WP" = (
+"aWP" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"WS" = (
+"aWS" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -2412,7 +2333,7 @@
 /obj/structure/closet/crate/bin,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"WV" = (
+"aWV" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -2420,13 +2341,13 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"WW" = (
+"aWW" = (
 /obj/structure/flora/bush/fullgrass,
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Xe" = (
+"aXe" = (
 /obj/effect/decal/cleanable/blood/oil/slippery,
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -2438,16 +2359,12 @@
 	},
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
-"Xl" = (
-/obj/structure/cable,
-/turf/open/floor/plating,
-/area/awaymission/secret/powered)
-"Xn" = (
+"aXn" = (
 /obj/machinery/light/small/directional/north,
 /obj/effect/spawner/random/maintenance,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"XB" = (
+"aXB" = (
 /obj/item/toy/plush/rouny{
 	dir = 4;
 	pixel_y = 8;
@@ -2456,7 +2373,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
-"Yd" = (
+"aYd" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
@@ -2464,7 +2381,7 @@
 /obj/structure/closet/crate/bin,
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Yf" = (
+"aYf" = (
 /obj/structure/flora/bush/grassy/style_random,
 /obj/structure/flora/bush/lavendergrass/style_random,
 /obj/structure/flora/bush/flowers_br/style_2,
@@ -2473,7 +2390,7 @@
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Yl" = (
+"aYl" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/storage/toolbox/fishing{
 	pixel_x = -10;
@@ -2484,19 +2401,12 @@
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"YI" = (
+"aYI" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"YJ" = (
-/obj/effect/spawner/structure/window/reinforced/indestructible,
-/obj/structure/curtain/cloth{
-	color = "#36373a"
-	},
-/turf/open/floor/plating,
-/area/awaymission/secret/powered)
-"YM" = (
+"aYM" = (
 /obj/effect/turf_decal/trimline/yellow/filled/corner{
 	dir = 8
 	},
@@ -2523,23 +2433,23 @@
 	},
 /turf/open/floor/iron/dark/textured,
 /area/awaymission/secret/powered)
-"Zb" = (
+"aZb" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
-"Ze" = (
+"aZe" = (
 /obj/machinery/status_display/random_message{
 	firstline_to_secondline = list(SOUVENIR="SHOP")
 	},
 /turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
-"Zv" = (
+"aZv" = (
 /obj/structure/broken_flooring/singular/directional/north,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Zx" = (
+"aZx" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/broken_flooring/singular/always_floorplane/directional/north,
@@ -2550,14 +2460,14 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
-"Zz" = (
+"aZz" = (
 /obj/machinery/door/poddoor/shutters/indestructible{
 	dir = 8;
 	id = "museum_right_wing"
 	},
 /turf/open/floor/iron,
 /area/awaymission/secret/powered)
-"ZD" = (
+"aZD" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
 	dir = 1
@@ -2565,13 +2475,13 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ZE" = (
+"aZE" = (
 /obj/structure/broken_flooring/singular/always_floorplane{
 	dir = 1
 	},
 /turf/open/floor/black,
 /area/awaymission/secret/powered)
-"ZS" = (
+"aZS" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue/corner{
 	dir = 8
@@ -2581,7 +2491,7 @@
 	},
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"ZV" = (
+"aZV" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -2590,1705 +2500,1793 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
+"aZW" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/obj/structure/flora/bush/large{
+	pixel_y = -2
+	},
+/obj/structure/flora/bush/fullgrass,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"baa" = (
+/obj/structure/flora/bush/fullgrass,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/flowers_br/style_2,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"bab" = (
+/obj/structure/flora/bush/fullgrass,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/machinery/light/floor,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"bac" = (
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/bush/flowers_br/style_2,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"bad" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment,
+/obj/machinery/light/floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"bae" = (
+/obj/machinery/light/floor,
+/turf/open/floor/mineral/bananium/airless,
+/area/awaymission/secret/powered)
+"baf" = (
+/obj/structure/table,
+/obj/effect/spawner/random/food_or_drink/refreshing_beverage{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"bag" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bai" = (
+/obj/structure/broken_flooring/side/always_floorplane/directional/north,
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
+"baj" = (
+/obj/structure/broken_flooring/side/always_floorplane/directional/north,
+/obj/machinery/light/blacklight,
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
+"bak" = (
+/obj/structure/broken_flooring/singular/always_floorplane{
+	dir = 4
+	},
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
+"bal" = (
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
+"bam" = (
+/obj/structure/broken_flooring/singular/always_floorplane{
+	dir = 8
+	},
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
+"ban" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/structure/curtain/cloth{
+	color = "#36373a"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
 
 (1,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-Nf
-IJ
-Lw
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-ws
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aNf
+aIJ
+aLw
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aws
 "}
 (2,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-yq
-yq
-yq
-yq
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-yq
-yq
-iy
-BU
-lw
-HW
-iy
-yq
-UK
-QC
-lY
-yq
-iy
-iy
-iy
-iy
-iy
-yq
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+ayq
+ayq
+ayq
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+ayq
+ayq
+aiy
+aBU
+alw
+aHW
+aiy
+ayq
+aUK
+aQC
+alY
+ayq
+aiy
+aiy
+aiy
+aiy
+aiy
+ayq
+ayq
 "}
 (3,1,1) = {"
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-yq
-Ao
-Ao
-Ao
-yq
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-yq
-kP
-iy
-PO
-gO
-CQ
-dH
-PR
-ce
-QC
-AJ
-jc
-pX
-pE
-pE
-Dz
-iy
-iy
-yq
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+ayq
+aAo
+aAo
+aAo
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+ayq
+akP
+aiy
+aPO
+agO
+aCQ
+adH
+aPR
+ace
+aQC
+aAJ
+ajc
+apX
+apE
+apE
+aDz
+aiy
+aiy
+ayq
 "}
 (4,1,1) = {"
-ly
-Ao
-Ao
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-Hq
-yq
-yq
-Ao
-Ao
-yq
-yq
-yq
-Ao
-WA
-Ao
-Ao
-Ao
-WA
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-yq
-wl
-so
-HK
-GQ
-QC
-GQ
-GQ
-QC
-QC
-QC
-QC
-QC
-QC
-GQ
-AJ
-MI
-iy
-yq
+aly
+aAo
+aAo
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aHq
+ayq
+ayq
+aAo
+aAo
+ayq
+ayq
+ayq
+aAo
+ayq
+aAo
+aAo
+aAo
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+ayq
+awl
+aso
+aHK
+aGQ
+aQC
+aGQ
+aGQ
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aGQ
+aAJ
+aMI
+aiy
+ayq
 "}
 (5,1,1) = {"
-ly
-Ao
-Ao
-Jb
-Jb
-Ul
-vB
-Ui
-yq
-VV
-sJ
-Ip
-yq
-yq
-yq
-yq
-Xl
-Ni
-Ao
-yq
-Vn
-Vn
-Vn
-yq
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-yq
-dI
-UK
-QC
-kh
-GQ
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-Qx
-QC
-JV
-cW
-yq
+aly
+aAo
+aAo
+aJb
+aJb
+bal
+bam
+bai
+ayq
+aVV
+asJ
+aIp
+ayq
+ayq
+ayq
+ayq
+axX
+aNi
+aAo
+ayq
+aVn
+aVn
+aVn
+ayq
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+ayq
+adI
+aUK
+aQC
+akh
+aGQ
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQx
+aQC
+aJV
+acW
+ayq
 "}
 (6,1,1) = {"
-ly
-Ao
-Ao
-Jb
-ZE
-iG
-Tv
-Ui
-YJ
-jx
-Br
-AN
-IO
-KW
-by
-LH
-Xl
-yq
-yq
-yq
-Gq
-Gq
-Gq
-yq
-yq
-yq
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-yq
-yq
-yq
-yq
-Ao
-ly
-ly
-ly
-ly
-yq
-iN
-UK
-QC
-QC
-Ev
-gg
-FV
-We
-We
-DE
-FV
-Nn
-mD
-QC
-QC
-JV
-iy
-yq
+aly
+aAo
+aAo
+aJb
+aZE
+bak
+bal
+baj
+ban
+baf
+aBr
+aAN
+aIO
+aKW
+aby
+aLH
+axX
+ayq
+ayq
+ayq
+aGq
+aGq
+aGq
+ayq
+ayq
+ayq
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+ayq
+ayq
+ayq
+ayq
+aAo
+aly
+aly
+aly
+aly
+ayq
+aiN
+aUK
+aQC
+aQC
+aEv
+agg
+aFV
+aWe
+aWe
+aDE
+aFV
+aNn
+amD
+aQC
+aQC
+aJV
+aiy
+ayq
 "}
 (7,1,1) = {"
-ly
-Ao
-Ao
-Jb
-Jb
-Jb
-hA
-Ui
-yq
-IG
-KC
-CM
-vK
-re
-jD
-rU
-FU
-yA
-Pc
-er
-QP
-Nk
-zs
-Em
-er
-yq
-yq
-yq
-yq
-GD
-yq
-yq
-yq
-yq
-Cv
-rX
-yq
-Ao
-ly
-ly
-ly
-ly
-yq
-wl
-UK
-QC
-QC
-gg
-ra
-Em
-Kh
-Em
-Em
-Em
-DK
-Nn
-QC
-QC
-ji
-iy
-yq
+aly
+aAo
+aAo
+aJb
+aJb
+aJb
+bak
+bai
+ayq
+aIG
+aKC
+aCM
+avK
+are
+ajD
+arU
+aFU
+ayA
+aPc
+aer
+baa
+bab
+bac
+aEm
+aer
+ayq
+ayq
+ayq
+ayq
+aGD
+ayq
+ayq
+ayq
+ayq
+aCv
+arX
+ayq
+aAo
+aly
+aly
+aly
+aly
+ayq
+awl
+aUK
+aQC
+aQC
+agg
+ara
+aEm
+aKh
+aEm
+aEm
+aEm
+aDK
+aNn
+aQC
+aQC
+aji
+aiy
+ayq
 "}
 (8,1,1) = {"
-ly
-Ao
-Ao
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-xX
-ci
-yA
-WW
-fJ
-jb
-tG
-fr
-CJ
-Nk
-yA
-RB
-tb
-VP
-SF
-lU
-VK
-Pq
-yA
-CN
-xG
-yq
-Ao
-Ao
-Ao
-Ao
-ly
-yq
-yq
-MP
-QC
-QC
-Fr
-Zb
-kC
-Zb
-xu
-Kh
-Em
-Em
-wR
-GQ
-QC
-WS
-yq
-yq
+aly
+aAo
+aAo
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+axX
+aci
+ayA
+aWW
+afJ
+ajb
+aZW
+afr
+aCJ
+aNk
+ayA
+aRB
+atb
+aVP
+aSF
+alU
+aVK
+aPq
+ayA
+aCN
+axG
+ayq
+aAo
+aAo
+aAo
+aAo
+aly
+ayq
+ayq
+aMP
+aQC
+aQC
+aFr
+aZb
+akC
+aZb
+axu
+aKh
+aEm
+aEm
+awR
+aGQ
+aQC
+aWS
+ayq
+ayq
 "}
 (9,1,1) = {"
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-yq
-Xn
-Ge
-yA
-yA
-mf
-Qv
-Pi
-NH
-Qw
-yA
-yA
-bY
-mo
-nd
-aS
-yR
-Qo
-JZ
-yA
-vi
-ha
-yq
-yq
-yq
-yq
-Ao
-ly
-WO
-eX
-HK
-QC
-QC
-TL
-Nq
-MO
-mx
-zy
-Em
-Em
-Kh
-EN
-GQ
-QC
-AJ
-nx
-WO
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+ayq
+aXn
+bag
+ayA
+ayA
+amf
+aQv
+aPi
+aNH
+aQw
+ayA
+ayA
+abY
+amo
+and
+aaS
+ayR
+aQo
+aJZ
+ayA
+avi
+aha
+ayq
+ayq
+ayq
+ayq
+aAo
+aly
+aWO
+aeX
+aHK
+aQC
+aQC
+aTL
+aNq
+aMO
+amx
+azy
+aEm
+aEm
+aKh
+aEN
+aGQ
+aQC
+aAJ
+anx
+aWO
 "}
 (10,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-xX
-Of
-xX
-wM
-Ee
-rd
-Nc
-NV
-Pi
-Yf
-yA
-SK
-tb
-pG
-sX
-pA
-VK
-Kn
-yA
-cz
-xE
-fq
-yA
-yA
-yq
-Ao
-ly
-On
-GQ
-QC
-QC
-em
-yq
-wu
-va
-MO
-zy
-Kh
-Em
-Em
-BC
-GQ
-GQ
-QC
-QC
-On
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+axX
+aOf
+axX
+awM
+aEe
+ard
+aNc
+aNV
+aPi
+aYf
+ayA
+aSK
+atb
+apG
+asX
+apA
+aVK
+aKn
+ayA
+acz
+axE
+afq
+ayA
+ayA
+ayq
+aAo
+aly
+aOn
+aGQ
+aQC
+aQC
+aem
+ayq
+awu
+ava
+aMO
+azy
+aKh
+aEm
+aEm
+aBC
+aGQ
+aGQ
+aQC
+aQC
+aOn
 "}
 (11,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-yq
-yZ
-xX
-TF
-iq
-Vx
-WF
-AC
-vg
-Lp
-yA
-yA
-yA
-Gj
-yz
-qR
-yA
-yA
-yA
-kW
-LE
-fO
-yA
-GT
-yq
-Ao
-ly
-qf
-Wq
-hp
-QC
-QC
-TL
-mx
-MO
-Nq
-zy
-Em
-Kh
-Kh
-EN
-GQ
-QC
-Jf
-gT
-qf
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+ayq
+ayZ
+axX
+aTF
+aiq
+aVx
+aWF
+aAC
+avg
+aLp
+ayA
+ayA
+ayA
+aGj
+ayz
+aqR
+ayA
+ayA
+ayA
+akW
+aLE
+afO
+ayA
+aGT
+ayq
+aAo
+aly
+aqf
+aWq
+ahp
+aQC
+aQC
+aTL
+amx
+aMO
+aNq
+azy
+aEm
+aKh
+aKh
+aEN
+aGQ
+aQC
+aJf
+agT
+aqf
 "}
 (12,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-yq
-ac
-vS
-yA
-ML
-xL
-qk
-fM
-mM
-TF
-nz
-tY
-yA
-yA
-Eh
-yA
-yA
-jl
-Lj
-xX
-YI
-LN
-yA
-AB
-yq
-Ao
-ly
-yq
-yq
-MP
-GQ
-QC
-gg
-Yd
-We
-We
-Bb
-Em
-Em
-Em
-wR
-GQ
-QC
-uR
-yq
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+ayq
+aac
+avS
+ayA
+aML
+axL
+aqk
+afM
+amM
+aTF
+anz
+atY
+ayA
+ayA
+aEh
+ayA
+ayA
+ajl
+aLj
+axX
+aYI
+aLN
+ayA
+aAB
+ayq
+aAo
+aly
+ayq
+ayq
+aMP
+aGQ
+aQC
+agg
+aYd
+aWe
+aWe
+aBb
+aEm
+aEm
+aEm
+awR
+aGQ
+aQC
+auR
+ayq
+ayq
 "}
 (13,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-Bj
-xX
-yA
-yA
-os
-Yl
-pJ
-TF
-TF
-Cz
-xX
-Ry
-TF
-Ii
-jD
-FG
-ll
-RZ
-fh
-RH
-QJ
-Wh
-ov
-yq
-Ao
-ly
-yq
-Op
-WP
-GQ
-QC
-Fr
-JW
-Kh
-Em
-Kh
-Kh
-Em
-BI
-dM
-GQ
-QC
-ZD
-iy
-Ze
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+aBj
+axX
+ayA
+ayA
+aos
+aYl
+apJ
+aTF
+aTF
+aCz
+axX
+aRy
+aTF
+aIi
+ajD
+aFG
+all
+aRZ
+afh
+aRH
+aQJ
+aWh
+aov
+ayq
+aAo
+aly
+ayq
+aOp
+aWP
+aGQ
+aQC
+aFr
+aJW
+aKh
+aEm
+aKh
+aKh
+aEm
+aBI
+adM
+aGQ
+aQC
+aZD
+aiy
+aZe
 "}
 (14,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-mS
-xX
-SW
-yA
-yA
-xX
-dE
-gL
-ia
-aa
-Zv
-rC
-ya
-UJ
-yA
-yA
-yA
-yA
-yA
-yA
-jq
-Mm
-Qe
-yq
-Ao
-ly
-yq
-UO
-UK
-QC
-QC
-Um
-Fr
-xm
-Zb
-Zb
-Zb
-xm
-dM
-Ev
-QC
-QC
-ZD
-IZ
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+amS
+axX
+aSW
+ayA
+ayA
+axX
+adE
+agL
+aia
+aaa
+aZv
+arC
+aya
+aUJ
+ayA
+ayA
+ayA
+ayA
+ayA
+ayA
+ajq
+aMm
+aQe
+ayq
+aAo
+aly
+ayq
+aUO
+aUK
+aQC
+aQC
+aUm
+aFr
+axm
+aZb
+aZb
+aZb
+axm
+adM
+aEv
+aQC
+aQC
+aZD
+aIZ
+ayq
 "}
 (15,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-zb
-vr
-FP
-lB
-yA
-Ax
-yA
-yA
-rw
-xt
-yA
-yA
-Ey
-Rd
-qz
-zd
-yA
-Ji
-rL
-yA
-ex
-ZV
-yq
-yq
-Ao
-ly
-yq
-nI
-UK
-QC
-Qx
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-kh
-QC
-ZD
-wO
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+azb
+avr
+aFP
+alB
+ayA
+aAx
+ayA
+ayA
+arw
+axt
+ayA
+ayA
+aEy
+aRd
+aqz
+azd
+ayA
+aJi
+arL
+ayA
+aex
+aZV
+ayq
+ayq
+aAo
+aly
+ayq
+anI
+aUK
+aQC
+aQx
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+akh
+aQC
+aZD
+awO
+ayq
 "}
 (16,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-km
-TF
-SH
-bN
-yA
-fd
-yA
-zi
-lC
-BG
-Sj
-yA
-Ir
-ee
-Gb
-FS
-NI
-Gv
-Do
-yA
-Cv
-ZV
-yq
-Ao
-Ao
-ly
-yq
-Op
-nJ
-kI
-QC
-GQ
-GQ
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-QC
-MG
-br
-vT
-pW
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+akm
+aTF
+aSH
+abN
+ayA
+afd
+ayA
+azi
+alC
+aBG
+aSj
+ayA
+aIr
+aee
+aGb
+aFS
+aNI
+aGv
+aDo
+ayA
+aCv
+aZV
+ayq
+aAo
+aAo
+aly
+ayq
+aOp
+anJ
+akI
+aQC
+aGQ
+aGQ
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aQC
+aMG
+abr
+avT
+apW
 "}
 (17,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-yq
-nU
-zw
-Hv
-xg
-yV
-Pd
-EZ
-EQ
-Ch
-Ch
-FM
-yA
-vi
-eQ
-yA
-yA
-yA
-yA
-xt
-yA
-yA
-hH
-yq
-Ao
-Ao
-ly
-yq
-kP
-iy
-ZS
-kn
-BB
-Wq
-jA
-kI
-QC
-Jf
-jA
-sq
-sq
-sq
-br
-iy
-iy
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+ayq
+anU
+azw
+aHv
+axg
+ayV
+aPd
+aEZ
+aEQ
+aCh
+aCh
+aFM
+ayA
+avi
+aeQ
+ayA
+ayA
+ayA
+ayA
+axt
+ayA
+ayA
+ahH
+ayq
+aAo
+aAo
+aly
+ayq
+akP
+aiy
+aZS
+akn
+aBB
+aWq
+ajA
+akI
+aQC
+aJf
+ajA
+asq
+asq
+asq
+abr
+aiy
+aiy
+ayq
 "}
 (18,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-yq
-kx
-QC
-oo
-sU
-vr
-IF
-KG
-Xe
-yW
-Ch
-Gi
-yA
-Tb
-eQ
-Qa
-vn
-UJ
-Cl
-ht
-yA
-HM
-nt
-yq
-Ao
-Ao
-ly
-yq
-yq
-iy
-xS
-qW
-TO
-iy
-yq
-UK
-QC
-iL
-yq
-iy
-iy
-zN
-iy
-iy
-yq
-yq
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+ayq
+akx
+aQC
+aoo
+asU
+avr
+aIF
+aKG
+aXe
+ayW
+aCh
+aGi
+ayA
+aTb
+aeQ
+aQa
+avn
+aUJ
+aCl
+aht
+ayA
+aHM
+ant
+ayq
+aAo
+aAo
+aly
+ayq
+ayq
+aiy
+axS
+aqW
+aTO
+aiy
+ayq
+aUK
+aQC
+aiL
+ayq
+aiy
+aiy
+azN
+aiy
+aiy
+ayq
+ayq
 "}
 (19,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-yq
-eu
-Lr
-ya
-yA
-yA
-xt
-xt
-yA
-yA
-Dl
-BL
-Hl
-yA
-uw
-qG
-fy
-oo
-yA
-eQ
-gC
-yA
-sC
-Zx
-yq
-yq
-Ao
-ly
-ly
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-Cd
-Zz
-dW
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-ly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+ayq
+aeu
+aLr
+aya
+ayA
+ayA
+axt
+axt
+ayA
+ayA
+aDl
+aBL
+aHl
+ayA
+auw
+aqG
+afy
+aoo
+ayA
+aeQ
+agC
+ayA
+asC
+aZx
+ayq
+ayq
+aAo
+aly
+aly
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aCd
+aZz
+adW
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aly
 "}
 (20,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-yq
-fG
-Lr
-qh
-yA
-CX
-Vs
-xX
-tj
-yq
-yq
-iV
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-iV
-yq
-yq
-VV
-ZV
-dz
-yq
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+ayq
+afG
+aLr
+aqh
+ayA
+aCX
+aVs
+axX
+atj
+ayq
+ayq
+aiV
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aiV
+ayq
+ayq
+aVV
+aZV
+adz
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (21,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-pu
-Lr
-fU
-yA
-VS
-xl
-Dw
-yq
-yq
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-yq
-yq
-ky
-WV
-yq
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+apu
+aLr
+afU
+ayA
+aVS
+axl
+aDw
+ayq
+ayq
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+ayq
+ayq
+aky
+aWV
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (22,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-yq
-gU
-gU
-yq
-mF
-Un
-ps
-Te
-yA
-SP
-xX
-Lr
-Fc
-al
-HO
-XB
-yq
-yq
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-yq
-yq
-yq
-yq
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+ayq
+agU
+agU
+ayq
+amF
+aUn
+aps
+aTe
+ayA
+aSP
+axX
+aLr
+aFc
+aal
+aHO
+aXB
+ayq
+ayq
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+ayq
+ayq
+ayq
+ayq
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (23,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-yq
-gU
-ic
-yq
-HU
-YM
-Ig
-dh
-oA
-Us
-QR
-qb
-ge
-yq
-yq
-yq
-yq
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+ayq
+bae
+aic
+ayq
+aHU
+aYM
+aIg
+adh
+aoA
+bad
+aQR
+aqb
+age
+ayq
+ayq
+ayq
+ayq
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (24,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-yq
-gU
-gU
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-yq
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+ayq
+agU
+agU
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+ayq
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (25,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-yq
-yq
-yq
-yq
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+ayq
+ayq
+ayq
+ayq
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (26,1,1) = {"
-ly
-ly
-ly
-ly
-Ao
-Ao
-Ao
-Ao
-Ao
-Ao
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aAo
+aAo
+aAo
+aAo
+aAo
+aAo
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
 (27,1,1) = {"
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
-ly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
+aly
 "}
