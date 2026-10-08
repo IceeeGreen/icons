@@ -369,6 +369,13 @@
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
+"iG" = (
+/obj/structure/broken_flooring/singular/always_floorplane{
+	dir = 4
+	},
+/obj/effect/light_emitter,
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
 "iL" = (
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /obj/effect/turf_decal/siding/dark_blue{
@@ -554,8 +561,8 @@
 /turf/open/floor/iron/grimy,
 /area/awaymission/secret/powered)
 "lC" = (
-/obj/structure/table/reinforced,
 /obj/effect/spawner/random/engineering/tool,
+/obj/structure/table_frame,
 /turf/open/floor/iron/smooth,
 /area/awaymission/secret/powered)
 "lU" = (
@@ -959,7 +966,7 @@
 /turf/open/floor/grass,
 /area/awaymission/secret/powered)
 "tY" = (
-/obj/effect/spawner/random/engineering/tank,
+/obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
 "uw" = (
@@ -2222,6 +2229,10 @@
 /obj/structure/cable,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
+"Tv" = (
+/obj/effect/light_emitter,
+/turf/open/floor/black,
+/area/awaymission/secret/powered)
 "TF" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
@@ -2296,7 +2307,7 @@
 /turf/open/mirage{
 	dir = 8;
 	range = 2;
-	target_turf_x = 2
+	target_turf_x = 4
 	},
 /area/awaymission/secret/powered)
 "Vs" = (
@@ -2365,6 +2376,10 @@
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"WA" = (
+/obj/effect/light_emitter,
+/turf/closed/indestructible/reinforced,
 /area/awaymission/secret/powered)
 "WF" = (
 /obj/effect/turf_decal/weather/dirt{
@@ -2785,11 +2800,11 @@ yq
 yq
 yq
 Ao
-yq
+WA
 Ao
 Ao
 Ao
-yq
+WA
 Ao
 ly
 ly
@@ -2897,8 +2912,8 @@ Ao
 Ao
 Jb
 ZE
-hA
-Ul
+iG
+Tv
 Ui
 YJ
 jx
