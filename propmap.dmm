@@ -2588,6 +2588,14 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
+"plp" = (
+/obj/effect/light_emitter/podbay,
+/turf/open/mirage{
+	dir = 8;
+	range = 2;
+	target_turf_x = 4
+	},
+/area/awaymission/secret/powered)
 
 (1,1,1) = {"
 aly
@@ -2672,11 +2680,11 @@ aly
 aly
 aly
 aAo
-ayq
-ayq
-ayq
-ayq
-ayq
+aAo
+aAo
+aAo
+aAo
+aAo
 aAo
 aly
 aly
@@ -2735,11 +2743,11 @@ aAo
 aAo
 aAo
 aAo
-ayq
 aAo
 aAo
 aAo
-ayq
+aAo
+aAo
 aAo
 aly
 aly
@@ -2798,11 +2806,11 @@ ayq
 ayq
 ayq
 aAo
-ayq
 aAo
 aAo
 aAo
-ayq
+aAo
+aAo
 aAo
 aly
 aly
@@ -2861,11 +2869,11 @@ ayq
 axX
 aNi
 aAo
-ayq
 aVn
 aVn
+plp
 aVn
-ayq
+aVn
 aAo
 aAo
 aAo
