@@ -1203,8 +1203,8 @@
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
 "aAo" = (
-/turf/cordon,
-/area/misc/cordon)
+/turf/closed/indestructible/binary,
+/area/awaymission/secret/powered)
 "aAx" = (
 /obj/effect/spawner/random/trash/grille_or_waste,
 /turf/open/floor/plating,
@@ -2743,11 +2743,11 @@ aAo
 aAo
 aAo
 aAo
-aAo
-aAo
-aAo
-aAo
-aAo
+aJb
+aJb
+aJb
+aJb
+aJb
 aAo
 aly
 aly
@@ -2806,11 +2806,11 @@ ayq
 ayq
 ayq
 aAo
-aAo
-aAo
-aAo
-aAo
-aAo
+aJb
+aJb
+aJb
+aJb
+aJb
 aAo
 aly
 aly
