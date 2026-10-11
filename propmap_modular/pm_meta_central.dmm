@@ -1,0 +1,8037 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ac" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Head of Personnel"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"an" = (
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/awaymission/secret/powered)
+"as" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"at" = (
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted{
+	dir = 8
+	},
+/obj/item/trash/fleet_ration,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"au" = (
+/obj/structure/plasticflaps/opaque,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"av" = (
+/obj/machinery/firealarm/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/reagent_containers/spray/chemsprayer/party,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"aw" = (
+/obj/item/radio/off,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ay" = (
+/obj/effect/decal/cleanable/blood/gibs/xeno/down,
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"aA" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"aC" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"aO" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"aQ" = (
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"aT" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command/glass{
+	name = "Bridge"
+	},
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"aV" = (
+/obj/structure/flora/bush/jungle/b/style_random,
+/obj/structure/flora/bush/large/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"ba" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/random/trash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bb" = (
+/obj/effect/turf_decal/tile/red/anticorner/contrasted{
+	dir = 4
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"bd" = (
+/obj/structure/flora/rock/pile/jungle/large/style_random,
+/turf/open/misc/dirt/dark/jungle,
+/area/awaymission/secret/powered)
+"bf" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bg" = (
+/obj/structure/bed/maint,
+/obj/item/bedsheet/pirate,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"bl" = (
+/obj/effect/decal/cleanable/glass,
+/obj/item/clothing/head/costume/party,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bm" = (
+/obj/machinery/firealarm/directional/east,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"br" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/holosign/barrier,
+/obj/structure/marker_beacon/burgundy,
+/obj/structure/sign/warning/secure_area/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bs" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/suit_storage_unit/void_old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"bw" = (
+/obj/effect/spawner/random/trash/garbage{
+	spawn_scatter_radius = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"bO" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Council Chamber"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"bP" = (
+/obj/machinery/holopad,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bR" = (
+/obj/structure/chair/comfy/black{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"bS" = (
+/obj/structure/sign/picture_frame/showroom/three{
+	pixel_x = -8;
+	pixel_y = 32
+	},
+/obj/structure/sign/picture_frame/showroom/four{
+	pixel_x = 8;
+	pixel_y = 32
+	},
+/obj/effect/spawner/random/trash/bin,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"bT" = (
+/obj/structure/bed/dogbed/renault,
+/mob/living/basic/pet/fox,
+/obj/item/stack/spacecash/c1000{
+	pixel_x = 5;
+	pixel_y = 15
+	},
+/obj/item/storage/briefcase/secure/syndie{
+	pixel_x = -6;
+	pixel_y = 13
+	},
+/obj/item/stack/sheet/mineral/diamond{
+	pixel_x = 9;
+	pixel_y = 9
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"bU" = (
+/obj/machinery/holopad,
+/obj/machinery/status_display/evac/directional/north,
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"bW" = (
+/obj/machinery/holopad,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"bZ" = (
+/obj/machinery/bluespace_beacon,
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"cj" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/mob_spawn/corpse/human/assistant,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ck" = (
+/obj/structure/table/wood,
+/obj/structure/sign/picture_frame/showroom/one{
+	pixel_x = -8;
+	pixel_y = 32
+	},
+/obj/structure/sign/picture_frame/showroom/two{
+	pixel_x = 8;
+	pixel_y = 32
+	},
+/obj/item/ammo_casing/shotgun/buckshot/spent,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"cp" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/obj/machinery/button/door/directional/south{
+	name = "Bridge Access Blast Door Control"
+	},
+/obj/machinery/button/door/directional/south{
+	name = "Council Chamber Blast Door Control";
+	pixel_y = -34
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"cr" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Command Hallway"
+	},
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cw" = (
+/obj/machinery/door/poddoor/shutters/preopen{
+	name = "HoP Queue Shutters"
+	},
+/obj/effect/turf_decal/loading_area{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cx" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cz" = (
+/obj/structure/grille/broken,
+/obj/effect/decal/cleanable/glass,
+/obj/item/stack/rods,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"cB" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cC" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cD" = (
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"cF" = (
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/ammo_casing/spent,
+/obj/item/ammo_casing/spent{
+	dir = 10;
+	pixel_x = -13;
+	pixel_y = -8
+	},
+/obj/item/ammo_casing/spent{
+	dir = 9;
+	pixel_x = -13;
+	pixel_y = 9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cH" = (
+/obj/effect/mapping_helpers/burnt_floor,
+/obj/structure/holosign/barrier/engineering,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"cI" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"cK" = (
+/obj/effect/turf_decal/trimline/brown/filled/line{
+	dir = 8
+	},
+/obj/machinery/door/firedoor,
+/obj/machinery/status_display/evac/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cN" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/chair,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"cO" = (
+/obj/structure/lattice,
+/obj/item/ammo_box/speedloader/strilka310/surplus,
+/turf/open/space/basic,
+/area/awaymission/secret/powered)
+"cW" = (
+/obj/structure/broken_flooring/pile/directional/north,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"cZ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/reinforced,
+/obj/machinery/door/firedoor,
+/obj/machinery/door/poddoor/shutters{
+	dir = 8;
+	name = "Vacant Commissary Shutter"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"db" = (
+/obj/item/storage/box/lights/mixed,
+/obj/item/flashlight/flare/candle/infinite{
+	icon_state = "candle2_lit";
+	pixel_x = -17;
+	pixel_y = 16
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"dc" = (
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/item/kirbyplants/organic/plant16,
+/obj/item/radio/intercom/directional/north,
+/obj/effect/turf_decal/tile/neutral/anticorner/contrasted{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"dd" = (
+/obj/structure/table/wood,
+/obj/machinery/recharger,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"di" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L14"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"dk" = (
+/obj/machinery/light_switch/directional/north,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/suit_storage_unit/void_old,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"dl" = (
+/obj/item/storage/fancy/cigarettes/cigpack_mindbreaker{
+	pixel_x = 3;
+	pixel_y = -5
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"dz" = (
+/obj/effect/spawner/random/engineering/flashlight,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"dA" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"dC" = (
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"dD" = (
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor4-old"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"dE" = (
+/obj/machinery/button/door/directional/east{
+	name = "Bridge Access Blast Door Control"
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/obj/structure/flora/rock/icy/style_2,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"dP" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"dU" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/bookcase/random,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"dX" = (
+/obj/machinery/newscaster/directional/east,
+/obj/machinery/computer/old{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"dY" = (
+/obj/structure/broken_flooring/corner/always_floorplane/directional/south,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"dZ" = (
+/obj/structure/closet/crate/preopen,
+/obj/item/stack/sheet/rglass{
+	amount = 50
+	},
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/rods/fifty,
+/obj/item/storage/toolbox/emergency,
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/effect/spawner/random/engineering/flashlight,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ei" = (
+/obj/structure/broken_flooring/corner/directional/east,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ej" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 5
+	},
+/obj/structure/closet/body_bag,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ek" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/frame/machine/secured,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"ep" = (
+/obj/effect/turf_decal/tile/blue,
+/obj/structure/flora/rock/icy,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"er" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"eu" = (
+/obj/effect/turf_decal/stripes/line,
+/obj/structure/closet/crate/trashcart/filled,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ey" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/machinery/light/small/dim/directional/east,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ez" = (
+/obj/item/kirbyplants,
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/clothing/neck/stethoscope,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"eA" = (
+/obj/effect/turf_decal/trimline/brown/filled/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"eB" = (
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"eD" = (
+/obj/structure/flora/bush/jungle/a/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"eG" = (
+/obj/machinery/airalarm/directional/south,
+/obj/structure/rack,
+/obj/item/wrench,
+/obj/item/crowbar,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"eN" = (
+/obj/effect/mapping_helpers/burnt_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"eR" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Captain's Quarters"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"eV" = (
+/obj/machinery/ticket_machine/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"eX" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/item/tank/jetpack/carbondioxide{
+	pixel_x = -4;
+	pixel_y = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"eZ" = (
+/obj/structure/grille,
+/obj/item/shard,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"fc" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fh" = (
+/obj/machinery/door/window/left/directional/north{
+	name = "Captain's Bedroom"
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"fj" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"fn" = (
+/obj/item/book/manual/wiki/security_space_law,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fz" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/item/trash/candle,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"fB" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/barricade/sandbags,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"fC" = (
+/obj/effect/decal/cleanable/shreds,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fD" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L7"
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "e";
+	pixel_x = 1;
+	pixel_y = -16
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "guy";
+	pixel_y = -5
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fF" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/delivery,
+/obj/machinery/door/poddoor/shutters/preopen{
+	name = "E.V.A. Storage Shutter"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fG" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/newscaster/directional/east,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fK" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fN" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"fP" = (
+/obj/machinery/status_display/evac/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fQ" = (
+/obj/structure/sign/departments/science,
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"gb" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ge" = (
+/obj/structure/railing{
+	dir = 5
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/obj/structure/closet/body_bag,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"gg" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/awaymission/secret/powered)
+"gj" = (
+/turf/open/misc/dirt/dark/jungle,
+/area/awaymission/secret/powered)
+"gk" = (
+/obj/effect/turf_decal/trimline/brown/filled/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"gt" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L12"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"gC" = (
+/obj/item/ammo_box/magazine/wt550m9,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"gE" = (
+/obj/machinery/light_switch/directional/south,
+/obj/structure/table/wood,
+/obj/item/razor{
+	pixel_x = -4;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/cup/glass/flask/gold,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"gF" = (
+/obj/item/ammo_casing/shotgun/buckshot/spent,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"gU" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/chair/stool/directional/west,
+/obj/effect/turf_decal/tile/brown{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hb" = (
+/obj/structure/sign/departments/court/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/barricade/security,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hc" = (
+/obj/structure/flora/bush/jungle/a/style_random,
+/obj/item/banner/science,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"hd" = (
+/obj/structure/rack,
+/obj/item/aicard,
+/obj/item/radio/off,
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hg" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Command Hallway"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hh" = (
+/obj/machinery/firealarm/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/bookcase/random,
+/obj/machinery/light/broken/directional/west,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hi" = (
+/obj/machinery/firealarm/directional/east,
+/obj/structure/table/glass,
+/obj/item/papercutter,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hj" = (
+/obj/structure/sign/map/left{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-left-MS";
+	pixel_y = 32
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hp" = (
+/obj/machinery/firealarm/directional/west,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/obj/item/radio/intercom/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"ht" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/item/radio/intercom/directional/west,
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/clothing/mask/facehugger/dead,
+/obj/structure/displaycase,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"hw" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hz" = (
+/obj/structure/rack,
+/obj/item/reagent_containers/cup/bottle/potassium{
+	pixel_x = 7;
+	pixel_y = 3
+	},
+/obj/item/reagent_containers/cup/bottle/phosphorus{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/reagent_containers/cup/bottle/sodium{
+	pixel_x = 1
+	},
+/obj/machinery/light/directional/east,
+/obj/item/radio/intercom/directional/east,
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 4
+	},
+/area/awaymission/secret/powered)
+"hF" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "E.V.A. Storage"
+	},
+/obj/effect/turf_decal/delivery,
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hG" = (
+/obj/structure/meateor_fluff/eyeball,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"hR" = (
+/obj/item/stack/sheet/rglass{
+	amount = 50
+	},
+/obj/item/stack/sheet/rglass{
+	amount = 50
+	},
+/obj/item/stack/rods/fifty,
+/obj/item/stack/rods/fifty,
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = -2;
+	pixel_y = -1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hT" = (
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"hU" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/storage/toolbox/electrical{
+	pixel_x = -2;
+	pixel_y = -5
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"hX" = (
+/obj/structure/barricade/sandbags,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"hZ" = (
+/obj/machinery/button/door/directional/west{
+	name = "Council Chamber Blast Door Control"
+	},
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"id" = (
+/obj/structure/mop_bucket,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ie" = (
+/obj/item/reagent_containers/cup/bottle/random_virus,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ii" = (
+/obj/structure/sign/directions/security{
+	dir = 1;
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/engineering{
+	dir = 4
+	},
+/obj/structure/sign/directions/command{
+	pixel_y = -8
+	},
+/turf/closed/wall/r_wall,
+/area/awaymission/secret/powered)
+"il" = (
+/obj/machinery/newscaster/directional/south,
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted,
+/obj/structure/closet/crate/trashcart/filled,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"im" = (
+/obj/machinery/power/shieldwallgen,
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iv" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/obj/effect/turf_decal/caution/red,
+/obj/item/clothing/suit/caution{
+	pixel_y = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ix" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"iy" = (
+/obj/machinery/door/airlock/command{
+	name = "Command Desk"
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iA" = (
+/obj/structure/alien/weeds,
+/obj/structure/alien/weeds/node,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"iH" = (
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iI" = (
+/obj/item/radio/intercom/directional/west,
+/obj/effect/turf_decal/tile/blue,
+/obj/machinery/light/broken/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iK" = (
+/obj/machinery/fax{
+	pixel_y = 9
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"iQ" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"iY" = (
+/obj/item/kirbyplants/organic/plant21,
+/obj/structure/sign/departments/botany/directional/east,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"iZ" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 6;
+	pixel_y = 2
+	},
+/obj/effect/decal/cleanable/glass,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ja" = (
+/obj/machinery/door/airlock/maintenance,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"jc" = (
+/obj/structure/flora/bush/jungle/b/style_random,
+/obj/structure/flora/bush/large/style_random,
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"jd" = (
+/obj/machinery/firealarm/directional/north,
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jk" = (
+/obj/structure/table/wood,
+/obj/machinery/light/directional/south,
+/obj/item/papercutter{
+	pixel_x = -4
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"jm" = (
+/obj/machinery/newscaster/directional/south,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"jt" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/chair{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"jx" = (
+/obj/structure/table/glass,
+/obj/item/reagent_containers/cup/bottle/epinephrine,
+/obj/item/reagent_containers/cup/bottle/multiver{
+	pixel_x = 6
+	},
+/obj/item/reagent_containers/syringe,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"jy" = (
+/obj/structure/holosign/barrier/atmos,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"jz" = (
+/obj/machinery/vending/coffee,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jC" = (
+/obj/item/trash/candy,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"jD" = (
+/obj/effect/turf_decal/delivery,
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"jF" = (
+/obj/structure/flora/rock/pile/jungle,
+/obj/structure/flora/tree/jungle/small/style_6,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"jG" = (
+/obj/structure/lattice,
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/open/space/basic,
+/area/awaymission/secret/powered)
+"jR" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jX" = (
+/obj/item/storage/medkit/regular{
+	pixel_x = 3;
+	pixel_y = 3
+	},
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"kc" = (
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor7"
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"kd" = (
+/obj/machinery/door/firedoor,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kg" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ki" = (
+/obj/item/disk/nuclear/fake/obvious,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"km" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/machinery/firealarm/directional/east,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kn" = (
+/obj/structure/closet/firecloset,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"kp" = (
+/obj/structure/barricade/security,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"kt" = (
+/obj/item/radio/intercom/directional/east,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kv" = (
+/obj/machinery/disposal/bin,
+/obj/structure/disposalpipe/trunk{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"kx" = (
+/obj/item/radio/intercom/directional/north,
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/oil{
+	icon_state = "floor5"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kI" = (
+/obj/structure/table/wood,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"kK" = (
+/obj/structure/table,
+/obj/item/folder/yellow,
+/obj/item/storage/medkit/regular{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/item/clothing/neck/stethoscope,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kM" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/obj/structure/table/wood,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade,
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kN" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kR" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Teleport Access"
+	},
+/obj/effect/turf_decal/delivery,
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kU" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"kW" = (
+/obj/structure/table/reinforced,
+/obj/machinery/door/window/brigdoor/right/directional/north{
+	name = "Head of Personnel's Desk";
+	req_access = list("hop")
+	},
+/obj/machinery/door/firedoor,
+/obj/machinery/door/poddoor/preopen{
+	id = "hop";
+	name = "Privacy Shutters"
+	},
+/obj/structure/desk_bell{
+	pixel_x = 7
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lb" = (
+/obj/structure/chair/comfy/beige,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"ld" = (
+/obj/machinery/firealarm/directional/north,
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lk" = (
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"lt" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/shard,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lu" = (
+/obj/effect/turf_decal/trimline/blue/filled/line,
+/obj/effect/decal/cleanable/vomit/toxic,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lv" = (
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lC" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lD" = (
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lE" = (
+/obj/item/disk/data{
+	pixel_x = 9;
+	pixel_y = -1
+	},
+/obj/item/disk/tech_disk{
+	pixel_x = -2;
+	pixel_y = -3
+	},
+/obj/item/disk/design_disk{
+	name = "component design disk";
+	pixel_y = 6
+	},
+/obj/structure/table/wood,
+/obj/item/toy/talking/ai{
+	name = "\improper Nanotrasen-brand toy AI";
+	pixel_y = 6
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"lG" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/decal/cleanable/glass,
+/obj/item/stack/rods,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lJ" = (
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lK" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lL" = (
+/obj/effect/turf_decal/delivery,
+/obj/machinery/flasher/directional/east{
+	pixel_y = -26
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lM" = (
+/obj/item/ammo_casing/shotgun/buckshot/spent,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lN" = (
+/obj/item/clothing/head/costume/party,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lQ" = (
+/obj/effect/turf_decal/stripes/line,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lT" = (
+/obj/structure/water_source/puddle,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"lU" = (
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"lY" = (
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mb" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Command Hallway"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mc" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/structure/sign/departments/aiupload/directional/north,
+/obj/effect/decal/cleanable/shreds,
+/obj/item/card/emag,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mf" = (
+/obj/structure/sign/directions/medical{
+	dir = 8;
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/evac,
+/obj/structure/sign/directions/science{
+	dir = 4;
+	pixel_y = -8
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"mi" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/awaymission/secret/powered)
+"mj" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/gibs/robot_debris,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mo" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/item/clothing/suit/caution{
+	pixel_y = -9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mq" = (
+/obj/item/stock_parts/micro_laser/high,
+/obj/effect/mapping_helpers/burnt_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"mt" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Corporate Showroom"
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"mw" = (
+/obj/structure/tank_dispenser/oxygen{
+	pixel_x = -1;
+	pixel_y = 2
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"my" = (
+/obj/structure/holosign/barrier,
+/obj/structure/marker_beacon/burgundy,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mI" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 8
+	},
+/obj/structure/barricade/sandbags,
+/obj/structure/railing/corner/end{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mK" = (
+/obj/structure/flora/rock/pile/jungle,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"mO" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 10
+	},
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"mP" = (
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/mob_spawn/corpse/human/scientist,
+/turf/open/misc/dirt/dark/jungle,
+/area/awaymission/secret/powered)
+"mQ" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/ammo_casing/shotgun/buckshot/spent,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"mR" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/screwdriver,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"mW" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nq" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/item/borg/upgrade/pinpointer,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nw" = (
+/obj/structure/chair/office{
+	dir = 1;
+	pixel_x = -11
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ny" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"nz" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/chair,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nO" = (
+/obj/effect/turf_decal/tile/purple,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nP" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L6"
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "c";
+	pixel_x = -11;
+	pixel_y = 16
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "o";
+	pixel_x = 4;
+	pixel_y = 16
+	},
+/obj/effect/landmark{
+	name = "ph_hunter_spawn"
+	},
+/obj/effect/landmark{
+	name = "ph_prop_spawn"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nS" = (
+/obj/structure/filingcabinet/chestdrawer{
+	pixel_x = 7;
+	pixel_y = 2
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"nW" = (
+/obj/item/extinguisher,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"nY" = (
+/obj/structure/table,
+/obj/machinery/newscaster/directional/north,
+/obj/item/paper_bin{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/item/pen,
+/obj/effect/turf_decal/tile/brown{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nZ" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/obj/effect/mob_spawn/corpse/human/doctor,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"od" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ok" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/radio/intercom/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"on" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"oo" = (
+/obj/machinery/button/door/directional/west{
+	id = "bridge blast";
+	name = "Bridge Access Blast Door Control"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"op" = (
+/obj/machinery/recharger,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"oy" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/preopen{
+	name = "Bridge Blast Door"
+	},
+/obj/structure/barricade/wooden/crude,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"oA" = (
+/obj/structure/sign/warning/electric_shock/directional/north,
+/obj/effect/turf_decal/bot,
+/obj/item/shard,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"oD" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/ammo_casing/spent{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"oH" = (
+/obj/machinery/status_display/ai/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"oI" = (
+/obj/structure/grille/broken,
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/decal/cleanable/glass,
+/obj/item/stack/rods,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"oM" = (
+/obj/item/flashlight/flare/candle/infinite{
+	icon_state = "candle3_lit";
+	pixel_x = -13;
+	pixel_y = 8
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"oO" = (
+/obj/item/cigbutt,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"oQ" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"oS" = (
+/turf/closed/indestructible/fakedoor/maintenance,
+/area/awaymission/secret/powered)
+"pb" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/holosign/barrier,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pc" = (
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pd" = (
+/obj/structure/bed/medical/emergency,
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/machinery/wall_healer/free/directional/west,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pp" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning/corner,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pr" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ps" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/trash/popcorn/caramel,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pu" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pv" = (
+/obj/machinery/holopad/secure,
+/obj/item/storage/box/lethalshot{
+	pixel_y = 7
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"pA" = (
+/obj/structure/table/wood,
+/obj/item/radio/intercom/directional/north,
+/obj/machinery/light/small/directional/north,
+/obj/machinery/coffeemaker/impressa,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"pB" = (
+/obj/effect/spawner/random/decoration/microwave{
+	dir = 1;
+	pixel_y = 2
+	},
+/obj/structure/table/wood,
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"pD" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pE" = (
+/obj/item/ammo_casing/spent{
+	dir = 1
+	},
+/obj/item/ammo_casing/spent{
+	dir = 10;
+	pixel_x = -13;
+	pixel_y = -8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pH" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pJ" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"pK" = (
+/obj/structure/reagent_dispensers/wall/virusfood/directional/south,
+/obj/structure/meateor_fluff/eyeball,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"pL" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/assembly/flash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pN" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pP" = (
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pQ" = (
+/obj/machinery/button/door/directional/west{
+	name = "Privacy Shutters Control"
+	},
+/obj/structure/chair/office{
+	dir = 4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"pR" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command/glass{
+	name = "Bridge"
+	},
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"pT" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pV" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 8
+	},
+/obj/effect/turf_decal/caution/red{
+	dir = 8
+	},
+/obj/item/clothing/suit/caution{
+	pixel_y = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pW" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L4"
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "l";
+	pixel_x = 10;
+	pixel_y = 16
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pX" = (
+/obj/effect/mob_spawn/ghost_role/human/virtual_domain/pirate,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"qk" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"qr" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"qu" = (
+/obj/structure/table/wood,
+/obj/item/storage/briefcase/secure{
+	desc = "A large briefcase with a digital locking system, and the Nanotrasen logo emblazoned on the sides.";
+	name = "\improper Nanotrasen-brand secure briefcase exhibit";
+	pixel_y = 2
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"qv" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/ammo_casing/spent{
+	dir = 10
+	},
+/obj/item/ammo_casing/spent{
+	dir = 9;
+	pixel_x = -19;
+	pixel_y = -5
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"qz" = (
+/obj/structure/table/wood,
+/obj/item/camera{
+	pixel_y = 4
+	},
+/obj/item/radio/intercom/directional/west,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"qI" = (
+/obj/machinery/requests_console/directional/east{
+	department = "Bridge";
+	name = "Bridge Requests Console"
+	},
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted{
+	dir = 4
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"qJ" = (
+/obj/machinery/hydroponics/constructable,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"qL" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/syringe/lethal/execution,
+/obj/item/reagent_containers/syringe/lethal/execution{
+	pixel_x = -4;
+	pixel_y = 7
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"qP" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L13"
+	},
+/obj/effect/decal/cleanable/crayon/x{
+	pixel_x = -6;
+	pixel_y = -15
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"qS" = (
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"qY" = (
+/obj/machinery/firealarm/directional/west,
+/obj/structure/alien/weeds,
+/obj/structure/alien/weeds/node,
+/obj/effect/mob_spawn/corpse/human/assistant/brainrot_infection,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ra" = (
+/obj/effect/spawner/random/decoration/showcase,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/window/reinforced/spawner/directional/west,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"rb" = (
+/obj/structure/bed/maint,
+/obj/item/bedsheet/pirate,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"re" = (
+/obj/structure/bookcase,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"rf" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/machinery/button/door/directional/north{
+	name = "Gateway Shutter Control"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"rh" = (
+/obj/structure/closet/emcloset,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/extinguisher_cabinet/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"rj" = (
+/obj/item/stock_parts/scanning_module/triphasic{
+	pixel_x = 4
+	},
+/obj/effect/mapping_helpers/burnt_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ro" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"rq" = (
+/obj/machinery/shower/directional/south,
+/obj/structure/curtain,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron/white,
+/area/awaymission/secret/powered)
+"rr" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/shutters/preopen{
+	dir = 1;
+	name = "Showroom Shutters"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"rs" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"rt" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_x = 1;
+	pixel_y = 5
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"rv" = (
+/obj/machinery/firealarm/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ry" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_x = 1;
+	pixel_y = 5
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"rz" = (
+/obj/item/tank/internals/oxygen,
+/obj/effect/decal/cleanable/glass,
+/obj/effect/gibspawner/human,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"rC" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"rJ" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"rO" = (
+/obj/structure/flora/bush/jungle/a/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/large/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"rP" = (
+/obj/effect/turf_decal/tile/brown/half/contrasted{
+	dir = 1
+	},
+/obj/structure/frame/computer,
+/obj/item/shard,
+/obj/item/stack/cable_coil/cut,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"rQ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/reinforced,
+/obj/machinery/door/firedoor,
+/obj/machinery/door/poddoor/shutters{
+	dir = 8;
+	name = "Vacant Commissary Shutter"
+	},
+/obj/structure/noticeboard/directional/north,
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"rW" = (
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/chair{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"sa" = (
+/obj/structure/chair/comfy/brown{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"sc" = (
+/obj/structure/reagent_dispensers/wall/virusfood/directional/south,
+/obj/item/clothing/mask/surgical,
+/obj/structure/meateor_fluff/abandoned_headcrab_egg,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"se" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/chair/office{
+	dir = 4;
+	pixel_x = -10
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"sf" = (
+/obj/machinery/airalarm/directional/west,
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted{
+	dir = 1
+	},
+/obj/structure/frame/computer,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"si" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "E.V.A. Storage"
+	},
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"sm" = (
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"sr" = (
+/obj/structure/flora/bush/jungle/b/style_random,
+/obj/structure/flora/tree/jungle/small/style_4,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"ss" = (
+/obj/effect/turf_decal/tile/purple,
+/obj/item/restraints/legcuffs/beartrap,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"st" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/spawner/random/trash/bin,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"sz" = (
+/obj/effect/decal/cleanable/blood,
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"sA" = (
+/obj/structure/sign/directions/command{
+	dir = 4;
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/security{
+	dir = 1;
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/engineering{
+	dir = 4
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"sB" = (
+/obj/item/clothing/mask/surgical,
+/obj/structure/meateor_fluff/eyeball,
+/obj/effect/decal/cleanable/vomit/toxic,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"sF" = (
+/obj/effect/decal/cleanable/blood/gibs/up,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"sI" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"sS" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"sX" = (
+/obj/structure/rack,
+/obj/item/tank/internals/oxygen,
+/obj/item/tank/internals/oxygen,
+/obj/item/radio/off,
+/obj/item/radio/off,
+/obj/item/radio/intercom/directional/east,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"sZ" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"te" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/obj/item/trash/can,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"tf" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/bodypart/head/robot,
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/machinery/digital_clock/directional/north,
+/obj/item/knife/combat/cyborg{
+	pixel_x = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"th" = (
+/obj/machinery/light/directional/north,
+/obj/structure/sign/map/right{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-right-MS";
+	pixel_y = 32
+	},
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/effect/spawner/random/trash/bin,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tj" = (
+/obj/structure/sign/map/right{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-right-MS";
+	pixel_y = 32
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"tk" = (
+/obj/structure/railing{
+	dir = 10
+	},
+/obj/structure/bonfire/prelit,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"tl" = (
+/obj/item/radio/intercom/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"to" = (
+/obj/machinery/light/small/directional/south,
+/obj/effect/turf_decal/tile/purple,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tq" = (
+/obj/machinery/airalarm/directional/west,
+/obj/structure/broken_flooring/singular/always_floorplane/directional/east,
+/obj/effect/spawner/surgery_tray/full/deployed,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"tu" = (
+/obj/item/boulder{
+	pixel_x = 7;
+	pixel_y = 9
+	},
+/obj/item/boulder{
+	icon_state = "rock_medium";
+	pixel_x = -12;
+	pixel_y = 8
+	},
+/obj/item/boulder{
+	icon_state = "boulder_medium";
+	pixel_x = -4;
+	pixel_y = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"tw" = (
+/obj/machinery/light/small/directional/north,
+/obj/structure/sign/warning/secure_area/directional/north,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ty" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood,
+/obj/effect/spawner/random/trash,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"tF" = (
+/obj/structure/sign/directions/security{
+	dir = 1;
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/engineering{
+	dir = 4
+	},
+/obj/structure/sign/directions/command{
+	dir = 1;
+	pixel_y = -8
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"tI" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"tM" = (
+/obj/structure/closet/crate/cardboard{
+	pixel_y = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"tO" = (
+/obj/structure/sign/map/right{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-right-MS";
+	pixel_y = 32
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tR" = (
+/obj/structure/fluff/paper/stack{
+	dir = 9
+	},
+/obj/item/book,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tS" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/ammo_casing/spent,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tV" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/disposalpipe/broken{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tW" = (
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ub" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/rglass{
+	amount = 50
+	},
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/storage/toolbox/emergency,
+/obj/effect/spawner/random/engineering/flashlight,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/south,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ud" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 2
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"uf" = (
+/obj/structure/table/wood,
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/item/folder/blue,
+/obj/item/clothing/head/collectable/hop{
+	name = "novelty HoP hat"
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"ug" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/awaymission/secret/powered)
+"uk" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L1"
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ul" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/structure/chair/stool/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"up" = (
+/obj/structure/table,
+/obj/item/stack/package_wrap,
+/obj/item/stack/package_wrap,
+/obj/item/stack/package_wrap,
+/obj/item/stack/package_wrap,
+/obj/item/hand_labeler,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/south,
+/obj/machinery/light/cold/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uq" = (
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ut" = (
+/obj/structure/broken_flooring/pile/directional/west,
+/obj/structure/holosign/barrier,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"uw" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/trash/can/food/pine_nuts,
+/obj/structure/sign/warning/secure_area/directional/south,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ux" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/obj/item/pen,
+/obj/machinery/light_switch/directional/east,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uz" = (
+/turf/template_noop,
+/area/template_noop)
+"uA" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/crowbar,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"uB" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"uD" = (
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"uH" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uP" = (
+/turf/closed/indestructible/binary,
+/area/awaymission/secret/powered)
+"uS" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/blood,
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/machinery/exoscanner,
+/obj/effect/turf_decal/bot_red,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"uT" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"uX" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"uY" = (
+/obj/item/photo/old{
+	pixel_y = 14
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"vf" = (
+/obj/effect/spawner/random/decoration/showcase,
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/window/reinforced/spawner/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"vg" = (
+/obj/effect/turf_decal/bot_white/right,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/clothing/head/cone{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vi" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/mine/explosive,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"vn" = (
+/obj/effect/decal/cleanable/blood/xeno,
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"vo" = (
+/obj/machinery/airalarm/directional/east,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"vt" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/chair/pew/left,
+/obj/item/newspaper,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"vw" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_x = 1;
+	pixel_y = 5
+	},
+/obj/item/bikehorn/rubberducky,
+/obj/machinery/light_switch/directional/west,
+/obj/structure/window/reinforced/spawner/directional/north,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"vy" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"vA" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/highsecurity{
+	name = "Secure Network Access"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/effect/mapping_helpers/airlock/access/all/command/ai_upload,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vI" = (
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"vK" = (
+/obj/effect/turf_decal/tile/red/half/contrasted{
+	dir = 1
+	},
+/obj/structure/frame/computer,
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_x = 5
+	},
+/obj/item/stack/cable_coil/cut,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vM" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 4
+	},
+/obj/item/knife/butcher,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vN" = (
+/turf/closed/indestructible/rock,
+/area/awaymission/secret/powered)
+"vO" = (
+/obj/machinery/firealarm/directional/south,
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/structure/bodycontainer/morgue,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vU" = (
+/obj/machinery/newscaster/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/trash/popcorn,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"vV" = (
+/obj/structure/toilet{
+	pixel_y = 13
+	},
+/obj/machinery/light/directional/south,
+/obj/machinery/light_switch/directional/south,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/iron/white,
+/area/awaymission/secret/powered)
+"vW" = (
+/obj/effect/decal/cleanable/blood/gibs/xeno/core,
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"wa" = (
+/obj/structure/fluff/paper/stack,
+/obj/structure/marker_beacon/bronze,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"wi" = (
+/obj/machinery/airalarm/directional/east,
+/obj/machinery/vending/cigarette,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"wj" = (
+/obj/structure/grille,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"wl" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "med"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"wn" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/toy/figure/detective{
+	pixel_y = 13
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"wo" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/structure/holosign/barrier,
+/obj/structure/marker_beacon/burgundy,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"wq" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/spawner/random/trash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"wu" = (
+/obj/effect/turf_decal/trimline/green/filled/corner,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ww" = (
+/obj/item/clothing/mask/gas,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"wA" = (
+/obj/machinery/vending/boozeomat,
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"wB" = (
+/obj/machinery/light_switch/directional/east,
+/obj/structure/table/glass,
+/obj/item/clothing/head/utility/chefhat{
+	pixel_x = 6;
+	pixel_y = 11
+	},
+/obj/item/reagent_containers/condiment/saltshaker,
+/obj/item/reagent_containers/condiment/peppermill{
+	pixel_x = -6;
+	pixel_y = 10
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"wD" = (
+/obj/effect/spawner/structure/window/reinforced/tinted,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"wH" = (
+/obj/machinery/light/directional/north,
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"wL" = (
+/obj/effect/turf_decal/tile/brown/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"wN" = (
+/obj/machinery/vending/cigarette,
+/obj/item/gun/ballistic/shotgun/lethal{
+	pixel_y = 13
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"wP" = (
+/obj/structure/showcase/machinery/tv{
+	dir = 1;
+	pixel_x = 2;
+	pixel_y = 3
+	},
+/obj/structure/table/wood,
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"wV" = (
+/obj/item/seeds/coffee,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"wY" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/flashlight/lantern{
+	light_on = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"xb" = (
+/obj/structure/showcase/machinery/tv/broken,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"xd" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/detective_scanner{
+	pixel_x = -7;
+	pixel_y = -6
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"xe" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"xj" = (
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/machinery/firealarm/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"xu" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L6"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"xI" = (
+/obj/item/folder/white{
+	pixel_x = 4;
+	pixel_y = -3
+	},
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/green/half/contrasted{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"xK" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/obj/item/book,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"xV" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"xW" = (
+/obj/structure/table/glass,
+/obj/structure/safe,
+/obj/item/storage/toolbox/guncase/cqc,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"yc" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"yh" = (
+/obj/item/clothing/mask/surgical,
+/obj/effect/mob_spawn/corpse/human/doctor,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"yn" = (
+/obj/structure/table,
+/obj/item/storage/belt/utility,
+/obj/item/storage/belt/utility,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yq" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L10"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yt" = (
+/obj/machinery/airalarm/directional/north,
+/obj/item/kirbyplants/organic/applebush,
+/obj/effect/turf_decal/tile/neutral/anticorner/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yw" = (
+/obj/item/radio/intercom/directional/west,
+/obj/effect/turf_decal/tile/blue,
+/obj/structure/closet/crate/cardboard,
+/obj/effect/spawner/random/maintenance/no_decals/seven,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"yx" = (
+/obj/item/paper_bin{
+	pixel_x = -2;
+	pixel_y = 8
+	},
+/obj/structure/table/glass,
+/obj/structure/window/reinforced/spawner/directional/east,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"yy" = (
+/obj/structure/sign/map/left{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-left-MS";
+	pixel_y = 32
+	},
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/item/banner/security,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yz" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yB" = (
+/obj/machinery/door/poddoor/shutters/preopen{
+	name = "HoP Queue Shutters"
+	},
+/obj/effect/turf_decal/loading_area,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yC" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yD" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral,
+/obj/structure/closet/body_bag,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yE" = (
+/obj/machinery/light_switch{
+	pixel_x = 38;
+	pixel_y = -35
+	},
+/obj/machinery/button/flasher{
+	pixel_x = 38;
+	pixel_y = -25
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/bed/maint,
+/obj/item/bedsheet/pirate{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"yH" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/trash/boritos/red,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"yI" = (
+/obj/structure/flora/bush/jungle/a/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"yK" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"yM" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"yN" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/preopen{
+	id = "council blast";
+	name = "Council Blast Doors"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"yO" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Gateway Chamber"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yP" = (
+/obj/effect/turf_decal/bot,
+/obj/machinery/vending/cigarette,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yT" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"zb" = (
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/red/half/contrasted{
+	dir = 4
+	},
+/obj/item/storage/cans/sixbeer,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ze" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zj" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_x = 5;
+	pixel_y = 7
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zo" = (
+/obj/structure/frame/computer,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zq" = (
+/obj/machinery/firealarm/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zw" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zx" = (
+/obj/structure/chair/comfy/black{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"zA" = (
+/obj/structure/closet/firecloset,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zB" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/obj/item/storage/box/mothic_rations{
+	pixel_x = 6;
+	pixel_y = -9
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zE" = (
+/obj/machinery/computer/old{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"zL" = (
+/obj/structure/rack,
+/obj/item/tank/jetpack/carbondioxide{
+	pixel_x = 4;
+	pixel_y = -1
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/south,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zO" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 5;
+	pixel_y = -4
+	},
+/obj/item/crowbar/hammer{
+	pixel_x = -6;
+	pixel_y = 10
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"zP" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L5"
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zQ" = (
+/obj/structure/noticeboard/directional/north,
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zT" = (
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/trash/fleet_ration,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ad" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
+	},
+/obj/machinery/button/door/directional/south{
+	name = "Gateway Shutter Control";
+	pixel_y = -34
+	},
+/obj/machinery/button/door/directional/south{
+	name = "E.V.A. Storage Shutter Control"
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Ag" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/tree/jungle/small/style_5,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Ah" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ao" = (
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"Ar" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ax" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/obj/machinery/button/door/directional/north{
+	name = "E.V.A. Storage Shutter Control"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/clothing/suit/bio_suit/virology{
+	pixel_x = 6;
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ay" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"AA" = (
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"AC" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/structure/mecha_wreckage/ripley/paddy,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"AD" = (
+/obj/machinery/holopad,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"AM" = (
+/obj/machinery/firealarm/directional/east,
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"AN" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"AP" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/clothing/suit/bio_suit/virology,
+/obj/item/clothing/head/bio_hood/virology{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/obj/structure/sign/warning/biohazard/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"AQ" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"AR" = (
+/obj/structure/broken_flooring/side/directional/west,
+/obj/structure/sign/warning/gas_mask/directional/north,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"AV" = (
+/obj/structure/alien/weeds,
+/obj/structure/alien/gelpod,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"AX" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/delivery,
+/obj/machinery/door/poddoor/shutters/window{
+	name = "Gateway Access Shutter"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Bd" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/item/banner/engineering,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Bg" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/trash/flare,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Bh" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/spawner/random/trash,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Bj" = (
+/obj/structure/bed/maint,
+/obj/item/bedsheet/pirate{
+	dir = 4
+	},
+/obj/item/knife/hunting{
+	pixel_y = -4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Bn" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/stack/sheet/iron,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Bp" = (
+/obj/item/ammo_box/magazine/wt550m9,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Bv" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Bw" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/shutters/preopen{
+	name = "Showroom Shutters"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"BF" = (
+/obj/effect/spawner/random/trash/bin,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"BJ" = (
+/turf/closed/indestructible/meat,
+/area/awaymission/secret/powered)
+"BK" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L13"
+	},
+/obj/effect/spawner/random/trash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"BM" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"BN" = (
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"BP" = (
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/security_space_law,
+/obj/machinery/light/small/directional/west,
+/obj/item/paper/fluff/gateway,
+/obj/item/coin/plasma,
+/obj/item/melee/chainofcommand,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"BZ" = (
+/obj/item/clothing/shoes/magboots{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ca" = (
+/obj/structure/broken_flooring/side/directional/north,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Cb" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cc" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cd" = (
+/obj/structure/sign/directions/command{
+	dir = 1;
+	pixel_y = -8
+	},
+/turf/closed/wall/r_wall,
+/area/awaymission/secret/powered)
+"Cg" = (
+/obj/structure/table/wood,
+/obj/item/poster/random_official,
+/obj/item/poster/random_official,
+/obj/item/poster/random_official,
+/obj/item/poster/random_official,
+/obj/item/poster/random_official,
+/obj/machinery/button/door/directional/east{
+	name = "corporate showroom shutters control"
+	},
+/obj/machinery/light/small/directional/east,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Cn" = (
+/obj/effect/turf_decal/trimline/brown/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cr" = (
+/obj/structure/table,
+/obj/machinery/cell_charger,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cs" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/poddoor/shutters{
+	name = "E.V.A. Storage Shutter"
+	},
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cw" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Cx" = (
+/obj/structure/broken_flooring/side/directional/north,
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "m";
+	pixel_x = -13;
+	pixel_y = 17
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Cy" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/item/folder/yellow{
+	pixel_y = 4
+	},
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/brown/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Cz" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"CA" = (
+/obj/structure/table/wood,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/item/paper_bin{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/item/pen,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"CC" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/obj/effect/decal/cleanable/vomit,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"CJ" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"CK" = (
+/obj/machinery/firealarm/directional/north,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/bio_hood/virology{
+	pixel_y = 10
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"CL" = (
+/obj/machinery/photocopier/prebuilt,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Dc" = (
+/obj/machinery/airalarm/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Dk" = (
+/obj/effect/spawner/random/vending/colavend,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Dl" = (
+/obj/structure/barricade/sandbags,
+/obj/structure/railing/corner/end{
+	dir = 4
+	},
+/obj/structure/marker_beacon/bronze,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Dp" = (
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor1-old"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Dx" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"DA" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"DC" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"DF" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"DM" = (
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor3-old"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"DO" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"DP" = (
+/obj/structure/rack,
+/obj/item/wrench,
+/obj/item/screwdriver,
+/obj/effect/turf_decal/tile/brown/opposingcorners{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/flashlight/flare/candle/infinite{
+	icon_state = "candle2_lit";
+	pixel_x = 17;
+	pixel_y = 16
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"DQ" = (
+/obj/machinery/vending/cigarette,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"DU" = (
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"DV" = (
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"DW" = (
+/obj/effect/turf_decal/tile/red/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ec" = (
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ed" = (
+/obj/item/knife/shiv/plastitanium,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"El" = (
+/obj/machinery/camera/motion/directional/east{
+	c_tag = "E.V.A. Storage"
+	},
+/obj/machinery/requests_console/directional/east{
+	department = "EVA";
+	name = "EVA Requests Console"
+	},
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"En" = (
+/obj/item/radio/intercom/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Er" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/machinery/light/broken/directional/south,
+/obj/item/stack/rods,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Es" = (
+/obj/machinery/button/door/directional/north{
+	name = "Privacy Shutters Control"
+	},
+/obj/machinery/computer/old,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Eu" = (
+/obj/structure/sign/directions/science{
+	pixel_y = -8
+	},
+/obj/structure/sign/directions/medical{
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/evac,
+/turf/closed/wall/r_wall,
+/area/awaymission/secret/powered)
+"EC" = (
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor4"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ED" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"EF" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L14"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"EH" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Gateway Maintenance"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"EK" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/extinguisher_cabinet/directional/west,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"EQ" = (
+/obj/item/restraints/legcuffs/beartrap,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ET" = (
+/obj/structure/lattice,
+/obj/item/gun/ballistic/rifle/boltaction/surplus,
+/turf/open/space/basic,
+/area/awaymission/secret/powered)
+"EV" = (
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Fc" = (
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Fd" = (
+/obj/item/storage/toolbox/drone,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ff" = (
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/structure/table/glass,
+/obj/item/stack/medical/wrap/gauze,
+/obj/item/stack/medical/mesh,
+/obj/item/stack/medical/suture,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Fg" = (
+/obj/machinery/light/cold/directional/east,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/north,
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Fh" = (
+/obj/item/radio/intercom/directional/east,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Fj" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Fl" = (
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/structure/table,
+/obj/item/stack/sheet/plasteel{
+	amount = 10
+	},
+/obj/machinery/airalarm/directional/west,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/crowbar,
+/obj/item/wrench,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Fp" = (
+/obj/machinery/light/floor,
+/obj/item/stack/sheet/iron,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Fw" = (
+/obj/effect/turf_decal/tile/purple,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"FA" = (
+/obj/structure/sign/map/left{
+	desc = "A framed picture of the station. Clockwise from security at the top (red), you see engineering (yellow), science (purple), escape (red and white), medbay (green), arrivals (blue and white), and finally cargo (brown).";
+	icon_state = "map-left-MS";
+	pixel_y = 32
+	},
+/obj/structure/showcase/machinery/tv/broken,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"FC" = (
+/obj/effect/turf_decal/bot_white/right,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/stock_parts/subspace/filter{
+	pixel_x = 15
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"FF" = (
+/obj/structure/frame/machine/secured,
+/obj/structure/marker_beacon/teal,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"FG" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/machinery/firealarm/directional/west,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"FI" = (
+/obj/item/trash/fleet_ration,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"FK" = (
+/obj/machinery/light/small/directional/east,
+/obj/machinery/requests_console/directional/east{
+	department = "Captain's Desk";
+	name = "Captain's Requests Console"
+	},
+/obj/structure/frame/computer{
+	dir = 8
+	},
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_x = 5
+	},
+/obj/item/stack/cable_coil/cut,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"FN" = (
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"FO" = (
+/obj/machinery/airalarm/directional/east,
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"FR" = (
+/obj/structure/sign/plaques/kiddie/perfect_drone{
+	pixel_y = 32
+	},
+/obj/structure/table/wood,
+/obj/item/storage/backpack/duffelbag/drone,
+/obj/structure/window/reinforced/spawner/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"FS" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/ammo_casing/spent{
+	dir = 4
+	},
+/obj/item/ammo_casing/spent{
+	dir = 9;
+	pixel_x = -13;
+	pixel_y = 9
+	},
+/obj/item/ammo_casing/spent{
+	dir = 8;
+	pixel_x = -19;
+	pixel_y = -5
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"FT" = (
+/obj/structure/chair/comfy/brown{
+	dir = 8
+	},
+/obj/item/restraints/handcuffs/cable/white,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"FV" = (
+/obj/machinery/airalarm/directional/east,
+/obj/machinery/computer/security/telescreen/entertainment/directional/north,
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/spawner/random/trash/bin,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"FZ" = (
+/obj/machinery/newscaster/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Gi" = (
+/obj/item/seeds/cucumber,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"Gk" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/obj/effect/gibspawner/human,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Gm" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Gn" = (
+/obj/item/seeds/eggplant,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"Gq" = (
+/obj/structure/closet/crate,
+/obj/item/stack/cable_coil,
+/obj/item/crowbar,
+/obj/item/screwdriver{
+	pixel_y = 16
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Gr" = (
+/obj/structure/table/glass,
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/machinery/computer/security/wooden_tv{
+	pixel_x = 1;
+	pixel_y = 6
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Gs" = (
+/obj/effect/decal/cleanable/blood/gibs/robot_debris/old,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/fluff/paper/stack{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Gx" = (
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Gy" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"GA" = (
+/obj/item/radio/intercom/directional/north,
+/obj/effect/turf_decal/bot,
+/obj/item/wallframe/light_fixture/small,
+/obj/item/stack/cable_coil/cut,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"GD" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"GG" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"GQ" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"GS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/holopad,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"GT" = (
+/obj/effect/spawner/random/trash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Hb" = (
+/obj/effect/mob_spawn/corpse/human/scientist,
+/turf/open/misc/dirt/dark/jungle,
+/area/awaymission/secret/powered)
+"Hc" = (
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Hd" = (
+/obj/structure/sign/plaques/kiddie/perfect_man{
+	pixel_y = 32
+	},
+/obj/effect/spawner/random/decoration/showcase,
+/obj/structure/window/reinforced/spawner/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Hg" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Hh" = (
+/obj/machinery/firealarm/directional/south,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Hl" = (
+/turf/closed/indestructible/fakedoor/engineering,
+/area/awaymission/secret/powered)
+"Ht" = (
+/obj/machinery/status_display/ai/directional/north,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/obj/machinery/light/broken/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Hv" = (
+/obj/structure/lattice,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/space/basic,
+/area/awaymission/secret/powered)
+"Hw" = (
+/obj/machinery/light/directional/west,
+/obj/structure/table,
+/obj/item/grenade/chem_grenade/smart_metal_foam{
+	pixel_x = -4;
+	pixel_y = 6
+	},
+/obj/item/grenade/chem_grenade/smart_metal_foam{
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/status_display/evac/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"HC" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/preopen{
+	name = "Bridge Blast Door"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"HG" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"HH" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/shutters/preopen{
+	name = "Showroom Shutters"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"HM" = (
+/obj/effect/turf_decal/delivery,
+/obj/machinery/button/door/directional/east{
+	name = "Teleporter Shutter Control";
+	pixel_y = 5
+	},
+/obj/structure/alien/weeds,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"HP" = (
+/obj/machinery/light/directional/east,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"HS" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/oil{
+	icon_state = "floor6"
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/item/modular_computer/laptop{
+	icon_state = "laptop";
+	pixel_x = 2;
+	pixel_y = 12
+	},
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"HX" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ie" = (
+/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ii" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ij" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/rock/pile/jungle,
+/obj/structure/flora/bush/leavy/style_3,
+/obj/structure/flora/tree/jungle/small/style_2,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Il" = (
+/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/structure/meateor_fluff/flesh_pod_open,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"Io" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/spawner/random/trash,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Iq" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Ir" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/mine/gas/plasma,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Iw" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"IB" = (
+/obj/machinery/newscaster/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"IC" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/glass,
+/obj/machinery/firealarm/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"IH" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/clothing/mask/facehugger/dead,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"IJ" = (
+/obj/structure/marker_beacon/bronze,
+/obj/structure/broken_flooring/side/directional/north,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"IL" = (
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"IM" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/decal/cleanable/glass,
+/obj/item/clothing/head/costume/party,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"IS" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"IU" = (
+/obj/machinery/door/airlock{
+	name = "Central Emergency Storage"
+	},
+/obj/effect/mapping_helpers/airlock/unres/delayed,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"IY" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/chair/pew/right,
+/obj/item/reagent_containers/cup/glass/coffee,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Jh" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/fluff/paper/stack{
+	dir = 6
+	},
+/obj/structure/sign/warning/secure_area/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ji" = (
+/obj/structure/rack,
+/obj/item/gun/ballistic/revolver/golden,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Jm" = (
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/obj/effect/spawner/structure/window/reinforced/tinted,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"JD" = (
+/obj/structure/fluff/paper/stack{
+	dir = 10
+	},
+/obj/item/flashlight/lamp/green,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"JG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"JK" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/suit_storage_unit{
+	state_open = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"JL" = (
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"JP" = (
+/obj/structure/holosign/barrier/wetsign,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"JR" = (
+/obj/structure/grille,
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_y = -6
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ka" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/ammo_casing/shotgun/buckshot/spent,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Kf" = (
+/obj/machinery/light/directional/south,
+/obj/effect/turf_decal/trimline/blue/filled/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Kh" = (
+/obj/machinery/airalarm/directional/north,
+/obj/structure/closet/secure_closet/personal,
+/obj/effect/spawner/random/bureaucracy/briefcase,
+/obj/effect/turf_decal/tile/brown/opposingcorners{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Kl" = (
+/obj/machinery/recharger{
+	pixel_x = 2;
+	pixel_y = 3
+	},
+/obj/structure/secure_safe/directional/east,
+/obj/structure/table/wood,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Km" = (
+/obj/structure/plaque/static_plaque/golden/commission/meta,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Kn" = (
+/obj/structure/closet/firecloset,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Kq" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/trash/cheesie,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Kr" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L9"
+	},
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor4";
+	pixel_y = -15
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Kv" = (
+/obj/machinery/light_switch/directional/north,
+/obj/machinery/light/small/directional/north,
+/obj/structure/table/wood,
+/obj/item/clothing/shoes/laceup,
+/obj/item/clothing/under/suit/black_really,
+/obj/item/clothing/glasses/sunglasses,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Kw" = (
+/obj/machinery/airalarm/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/blood/gibs/robot_debris/limb,
+/obj/machinery/exoscanner,
+/obj/effect/turf_decal/bot_red,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KA" = (
+/obj/item/storage/box/mothic_rations{
+	pixel_y = -7
+	},
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"KF" = (
+/obj/effect/turf_decal/trimline/brown/filled/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/structure/closet/crate/cargo,
+/obj/effect/spawner/random/maintenance/no_decals/seven,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KM" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"KN" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"KP" = (
+/obj/effect/turf_decal/delivery,
+/obj/structure/alien/weeds,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KQ" = (
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KR" = (
+/obj/machinery/firealarm/directional/north,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KT" = (
+/obj/machinery/door/firedoor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"KW" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/assembly/flash,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Lg" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/fluff/paper/stack,
+/obj/item/flashlight/lamp/green,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Lh" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ll" = (
+/obj/structure/alien/weeds,
+/obj/structure/bed/nest,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Lm" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor7"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ls" = (
+/obj/structure/punji_sticks/spikes,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Lu" = (
+/obj/effect/turf_decal/tile/purple,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Lz" = (
+/obj/item/camera/detective{
+	pixel_x = 9;
+	pixel_y = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"LB" = (
+/obj/structure/sign/directions/evac,
+/obj/structure/sign/directions/medical{
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/science{
+	pixel_y = -8
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"LD" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"LG" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/shutters/preopen{
+	dir = 1;
+	name = "Showroom Shutters"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"LJ" = (
+/obj/structure/rack,
+/obj/item/clothing/shoes/magboots,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/window/spawner/directional/north,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"LK" = (
+/obj/structure/alien/weeds,
+/obj/item/flamethrower/full/tank,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"LL" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"LN" = (
+/obj/structure/table/optable,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"LP" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 2
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"LS" = (
+/obj/machinery/status_display/ai/directional/north,
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/closet/crate/secure/syndicrate,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"LV" = (
+/obj/effect/turf_decal/trimline/blue/filled/corner,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/machinery/status_display/evac/directional/south,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Mb" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/chair/sofa/corp/left{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Mj" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ml" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 5
+	},
+/obj/item/radio/off,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Mm" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/storage/briefcase/lawyer,
+/obj/structure/noticeboard/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Mn" = (
+/obj/structure/mop_bucket/janitorialcart{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Mo" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Mq" = (
+/obj/effect/turf_decal/tile/blue,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Mr" = (
+/obj/structure/chair/comfy/brown{
+	dir = 4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Ms" = (
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Mt" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Mu" = (
+/obj/effect/decal/cleanable/blood/gibs/xeno/up,
+/obj/structure/alien/weeds,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Mz" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/obj/effect/turf_decal/caution/red,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MC" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MF" = (
+/obj/machinery/light_switch/directional/south,
+/obj/effect/spawner/random/vending/colavend,
+/obj/structure/window/reinforced/spawner/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"MG" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = -2;
+	pixel_y = -1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MJ" = (
+/obj/machinery/door/airlock/silver{
+	name = "Bathroom"
+	},
+/turf/open/floor/iron/white,
+/area/awaymission/secret/powered)
+"ML" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/glass,
+/obj/item/flashlight/flare/candle/infinite{
+	icon_state = "candle3_lit";
+	pixel_x = 13;
+	pixel_y = 8
+	},
+/obj/item/trash/candle,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"MM" = (
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"MN" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MP" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/item/evidencebag,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MS" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"MZ" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ne" = (
+/obj/item/bodybag{
+	pixel_x = -6;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/spray/cleaner{
+	pixel_x = 9;
+	pixel_y = -5
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Nh" = (
+/obj/machinery/light/directional/east,
+/obj/machinery/firealarm/directional/east,
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Nl" = (
+/obj/item/restraints/legcuffs/beartrap,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Nm" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"No" = (
+/obj/machinery/door/window/left/directional/south{
+	name = "HoP's Desk"
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Nq" = (
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Nr" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Nu" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/crate/cardboard/mothic{
+	pixel_y = 8
+	},
+/obj/structure/sign/warning/secure_area/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ny" = (
+/obj/effect/spawner/random/trash,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Nz" = (
+/obj/machinery/cell_charger{
+	pixel_y = 4
+	},
+/obj/structure/table/glass,
+/obj/structure/window/reinforced/spawner/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ND" = (
+/obj/structure/flora/bush/jungle/b/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/tree/jungle/small/style_4,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"NG" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L2"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"NN" = (
+/obj/machinery/holopad,
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"NR" = (
+/obj/item/radio/intercom/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"NW" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/glass,
+/obj/machinery/firealarm/directional/south,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"NZ" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/obj/structure/flora/bush/large/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Oc" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Od" = (
+/obj/machinery/vending/boozeomat/syndicate,
+/obj/effect/turf_decal/tile/bar,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Oe" = (
+/obj/structure/flora/rock/pile/jungle,
+/obj/structure/barricade/sandbags,
+/turf/open/misc/dirt/dark/jungle,
+/area/awaymission/secret/powered)
+"Of" = (
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/security_space_law{
+	pixel_y = 3
+	},
+/obj/item/radio/intercom/command/directional/north,
+/obj/item/paper/fluff/jobs/engineering/frequencies,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Oh" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Oi" = (
+/turf/closed/indestructible/fakedoor,
+/area/awaymission/secret/powered)
+"Oj" = (
+/obj/item/chair,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ol" = (
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Om" = (
+/obj/effect/turf_decal/bot_white,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/status_display/evac/directional/east,
+/obj/item/stock_parts/subspace/crystal{
+	pixel_x = 6;
+	pixel_y = -12
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Oq" = (
+/obj/machinery/door/poddoor/preopen{
+	name = "Bridge Blast Door"
+	},
+/obj/effect/turf_decal/delivery,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Or" = (
+/obj/effect/spawner/random/vending/snackvend,
+/obj/structure/window/reinforced/spawner/directional/east,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Os" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 7;
+	pixel_y = 3
+	},
+/obj/structure/grille/broken,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ou" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/banner/science,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ov" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/obj/machinery/light/directional/north,
+/obj/structure/sign/warning/secure_area/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ox" = (
+/obj/structure/broken_flooring/side/directional/west,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"OC" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"OD" = (
+/obj/item/flashlight/flare{
+	icon_state = "flare-on";
+	light_on = 1
+	},
+/obj/structure/grille/broken,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"OE" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/holosign/barrier,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"OS" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"OU" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"OV" = (
+/obj/machinery/vending/cart{
+	req_access = list("hop")
+	},
+/obj/item/radio/intercom/directional/north,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"OX" = (
+/obj/item/stack/rods/ten,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Pa" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/ammo_casing/spent{
+	dir = 9
+	},
+/obj/item/ammo_casing/spent{
+	dir = 10;
+	pixel_x = -13;
+	pixel_y = -8
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Pd" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Pg" = (
+/obj/structure/alien/weeds,
+/obj/structure/alien/egg/burst,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Pk" = (
+/obj/structure/table,
+/obj/machinery/airalarm/directional/west,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Pq" = (
+/obj/structure/closet/crate/cargo,
+/obj/effect/spawner/random/maintenance/no_decals/seven,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Py" = (
+/obj/machinery/computer/security/telescreen/entertainment/directional/north,
+/obj/item/radio/intercom/directional/west,
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 2
+	},
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"PC" = (
+/obj/structure/chair/comfy/brown,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"PG" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/preopen{
+	id = "hop";
+	name = "Privacy Shutters"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"PP" = (
+/obj/machinery/newscaster/directional/west,
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -4
+	},
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"PQ" = (
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/machinery/computer/old{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"PR" = (
+/obj/structure/holosign/barrier/engineering,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"PT" = (
+/obj/structure/grille/broken,
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"PU" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L10"
+	},
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"PY" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/banner/medical,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"Qc" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_x = 9;
+	pixel_y = 2
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Qg" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L3"
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Qh" = (
+/obj/structure/sign/poster/random/directional/west,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Qm" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/clothing/mask/party_horn,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Qp" = (
+/turf/closed/wall/r_wall,
+/area/awaymission/secret/powered)
+"Qq" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/marker_beacon/bronze,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Qw" = (
+/obj/structure/sign/directions/engineering{
+	dir = 4
+	},
+/obj/structure/sign/directions/security{
+	dir = 1;
+	pixel_y = 8
+	},
+/obj/structure/sign/directions/command{
+	dir = 8;
+	pixel_y = -8
+	},
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"QA" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L4"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"QM" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"QN" = (
+/obj/machinery/door/airlock/command{
+	name = "Captain's Quarters"
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"QQ" = (
+/obj/structure/mirror/directional/north,
+/obj/structure/sink/directional/south,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/weather/dirt,
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
+/area/awaymission/secret/powered)
+"Ra" = (
+/obj/structure/chair/stool/directional/east,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Rg" = (
+/obj/structure/bed/medical/emergency,
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Rj" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Rl" = (
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Rx" = (
+/obj/structure/barricade/sandbags,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Rz" = (
+/obj/effect/turf_decal/tile/blue,
+/obj/item/boulder{
+	icon_state = "boulder_large";
+	pixel_y = 7
+	},
+/obj/item/boulder{
+	icon_state = "boulder_small";
+	pixel_x = 9;
+	pixel_y = -1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"RB" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RD" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/barricade/security,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RE" = (
+/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RG" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/trash/popcorn/caramel,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RI" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/trash/ready_donk{
+	pixel_y = 10
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RJ" = (
+/obj/structure/meateor_fluff/abandoned_headcrab_egg,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"RL" = (
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RR" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RT" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/structure/bed/dogbed/ian,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"RV" = (
+/obj/structure/fluff/paper/stack{
+	dir = 10
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RX" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/sign/warning/secure_area/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"RZ" = (
+/obj/structure/sign/warning/pods,
+/turf/closed/wall,
+/area/awaymission/secret/powered)
+"Sa" = (
+/obj/effect/spawner/random/vending/colavend,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Sj" = (
+/obj/structure/alien/weeds,
+/obj/item/clothing/mask/facehugger/dead,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Sl" = (
+/obj/machinery/status_display/ai/directional/north,
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = -1;
+	pixel_y = 4
+	},
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/brown/half/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Sm" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/item/banner/engineering,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Sr" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ss" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Sx" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Sz" = (
+/obj/structure/barricade/sandbags,
+/obj/structure/railing/corner/end/flip{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"SC" = (
+/obj/structure/table,
+/obj/machinery/cell_charger,
+/obj/machinery/light_switch/directional/north,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"SF" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/banner/medical,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"SG" = (
+/obj/machinery/firealarm/directional/east,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/frame/machine/secured,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"SH" = (
+/obj/machinery/status_display/ai/directional/north,
+/obj/machinery/computer/old{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"SJ" = (
+/obj/structure/flora/rock/pile/jungle,
+/obj/effect/mob_spawn/corpse/human/scientist,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"SK" = (
+/obj/item/radio/intercom/directional/north{
+	pixel_y = 34
+	},
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/computer/old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"SN" = (
+/obj/effect/spawner/structure/window,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"SP" = (
+/obj/structure/table/wood,
+/obj/machinery/button/ticket_machine{
+	pixel_x = 38
+	},
+/obj/machinery/light_switch/directional/south{
+	pixel_x = 6;
+	pixel_y = -34
+	},
+/obj/machinery/button/door/directional/south{
+	pixel_x = -6
+	},
+/obj/item/paper_bin/carbon{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/item/stamp/head/hop{
+	pixel_x = -4;
+	pixel_y = 4
+	},
+/obj/machinery/button/door/directional/south{
+	pixel_x = -6;
+	pixel_y = -34
+	},
+/obj/item/pen{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/obj/machinery/button/photobooth{
+	pixel_x = 26
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"SR" = (
+/obj/structure/barricade/sandbags,
+/obj/machinery/deployable_turret/hmg,
+/obj/structure/railing/corner/end/flip{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ST" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Command Hallway"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"SY" = (
+/obj/structure/broken_flooring/pile/directional/west,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Te" = (
+/obj/effect/turf_decal/bot,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Tm" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"To" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/obj/machinery/atmospherics/components/unary/portables_connector/visible/layer4{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Ty" = (
+/obj/structure/spider/stickyweb,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"TC" = (
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"TH" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"TJ" = (
+/obj/machinery/pdapainter{
+	pixel_y = 2
+	},
+/obj/machinery/requests_console/directional/north{
+	department = "Head of Personnel's Desk";
+	name = "Head of Personnel's Requests Console"
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"TL" = (
+/obj/machinery/airalarm/directional/west,
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"TN" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"TP" = (
+/obj/structure/closet/emcloset,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"TT" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/machinery/door/poddoor/shutters{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"TW" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ua" = (
+/obj/machinery/light/directional/north,
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ue" = (
+/obj/item/radio/intercom/directional/north,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ui" = (
+/obj/structure/meateor_fluff/eyeball,
+/obj/effect/mob_spawn/corpse/human/doctor,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"Uj" = (
+/obj/effect/turf_decal/trimline/brown/filled/line{
+	dir = 8
+	},
+/obj/structure/closet/crate/cargo,
+/obj/effect/spawner/random/maintenance/no_decals/seven,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Un" = (
+/obj/structure/flora/bush/leavy/style_3,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/obj/effect/mob_spawn/corpse/human/scientist,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Uo" = (
+/obj/effect/decal/cleanable/crayon/x,
+/turf/closed/wall/rust,
+/area/awaymission/secret/powered)
+"Uq" = (
+/obj/effect/turf_decal/trimline/blue/filled/warning/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ur" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/flashlight/flare/candle/infinite{
+	icon_state = "candle2_lit";
+	pixel_y = -9
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Uv" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/machinery/computer/records/security/laptop/syndie,
+/obj/structure/sign/poster/official/state_laws/directional/north,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ux" = (
+/obj/machinery/button/door/directional/south{
+	name = "E.V.A. Storage Shutter Control"
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/suit_storage_unit/void_old,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Uz" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mop,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"UF" = (
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/structure/bed/medical/emergency,
+/obj/effect/mob_spawn/corpse/human/assistant,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"UJ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"UP" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/holosign/barrier,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"UT" = (
+/obj/effect/turf_decal/bot_white/left,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/light/directional/west,
+/obj/item/clothing/head/cone{
+	pixel_x = 5;
+	pixel_y = -4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ve" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Vk" = (
+/obj/machinery/recharger{
+	pixel_y = 3
+	},
+/obj/item/restraints/handcuffs{
+	pixel_y = 3
+	},
+/obj/structure/table/glass,
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Vr" = (
+/obj/machinery/door/poddoor/preopen{
+	name = "Bridge Blast Door"
+	},
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command/glass{
+	name = "Bridge Access"
+	},
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Vs" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/structure/holosign/barrier/engineering,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Vt" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Vw" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L8"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Vz" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"VD" = (
+/obj/effect/rune,
+/obj/item/knife/envy,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"VG" = (
+/obj/effect/turf_decal/tile/blue/anticorner/contrasted{
+	dir = 8
+	},
+/obj/item/trash/fleet_ration,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"VH" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"VO" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"VP" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/trash/energybar,
+/obj/structure/sign/warning/secure_area/directional/south,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"VQ" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "L3"
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "w";
+	pixel_x = -17;
+	pixel_y = -15
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "e";
+	pixel_x = -2;
+	pixel_y = -16
+	},
+/obj/effect/decal/cleanable/blood{
+	pixel_y = -13
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"VT" = (
+/obj/structure/chair/comfy/black{
+	dir = 4
+	},
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Wf" = (
+/obj/structure/rack,
+/obj/item/assembly/signaler,
+/obj/item/assembly/signaler,
+/obj/item/assembly/timer,
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/digital_clock/directional/south,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Wh" = (
+/obj/effect/turf_decal/tile/neutral,
+/mob/living/basic/bot/cleanbot/autopatrol,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Wl" = (
+/obj/effect/turf_decal/bot,
+/obj/machinery/digital_clock/directional/north,
+/obj/item/light/bulb/broken{
+	pixel_x = 15
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Wm" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 7;
+	pixel_y = -5
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Wt" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Wv" = (
+/obj/machinery/light/directional/east,
+/obj/machinery/airalarm/directional/east,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"WF" = (
+/obj/item/reagent_containers/cup/bottle/random_virus,
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"WH" = (
+/obj/effect/turf_decal/tile/neutral,
+/obj/item/trash/semki/healthy,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"WL" = (
+/obj/structure/marker_beacon/bronze,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/awaymission/secret/powered)
+"WM" = (
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Xa" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/book/manual/wiki/detective,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Xj" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/alien/weeds,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Xn" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Xp" = (
+/obj/item/ammo_casing/spent,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Xs" = (
+/obj/effect/decal/cleanable/glass,
+/obj/structure/safe/floor,
+/obj/item/stack/spacecash/c10000,
+/obj/item/stack/spacecash/c10000,
+/obj/item/stack/spacecash/c10000,
+/obj/item/stack/sheet/mineral/gold,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Xw" = (
+/obj/structure/flora/bush/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/item/flashlight/flare{
+	icon_state = "flare-on";
+	light_on = 1
+	},
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Xx" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/crowbar,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"XD" = (
+/obj/structure/holosign/barrier/medical,
+/turf/closed/indestructible/fakedoor,
+/area/awaymission/secret/powered)
+"XI" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"XJ" = (
+/obj/item/shard,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"XK" = (
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/machinery/computer/old{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"XL" = (
+/obj/effect/decal/cleanable/confetti,
+/obj/machinery/jukebox/disco{
+	anchored = 1;
+	req_access = null
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"XM" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/obj/structure/chair/stool/directional/east,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"XN" = (
+/obj/structure/meateor_fluff/flesh_pod_open,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"XW" = (
+/obj/structure/table_frame/wood,
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -4
+	},
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Yc" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/item/storage/toolbox/electrical{
+	pixel_x = 1;
+	pixel_y = -1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Yd" = (
+/obj/effect/spawner/structure/window/reinforced/indestructible,
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Yf" = (
+/obj/item/seeds/cocoapod,
+/turf/open/misc/dirt/jungle,
+/area/awaymission/secret/powered)
+"Yg" = (
+/obj/structure/table/wood,
+/obj/machinery/light_switch/directional/west,
+/obj/item/storage/briefcase/secure{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/structure/window/reinforced/spawner/directional/south,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"Yi" = (
+/obj/structure/flora/bush/large/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"Yl" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Yn" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/command{
+	name = "Head of Personnel"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Yo" = (
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/item/trash/chips,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Yr" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ys" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/machinery/status_display/evac/directional/west,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Yt" = (
+/obj/structure/rack,
+/obj/item/storage/toolbox/emergency,
+/obj/item/storage/toolbox/emergency{
+	pixel_x = -2;
+	pixel_y = -3
+	},
+/obj/item/wrench,
+/obj/item/multitool,
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/incident_display/delam/directional/south,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Yv" = (
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/structure/closet/crate/trashcart/filled,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"YA" = (
+/obj/structure/frame/computer{
+	dir = 1
+	},
+/obj/item/shard{
+	icon_state = "medium";
+	pixel_x = 5
+	},
+/obj/item/stack/cable_coil/cut,
+/turf/open/floor/wood,
+/area/awaymission/secret/powered)
+"YD" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/leavy/style_2,
+/obj/structure/spacevine{
+	can_spread = 0
+	},
+/obj/structure/flora/bush/large/style_random,
+/turf/open/misc/grass/jungle,
+/area/awaymission/secret/powered)
+"YG" = (
+/obj/effect/turf_decal/tile/blue/half/contrasted,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/item/banner/command,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"YN" = (
+/obj/structure/alien/weeds,
+/obj/structure/alien/resin,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"YQ" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/photo/old{
+	pixel_x = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"YR" = (
+/obj/effect/turf_decal/bot_white,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/machinery/status_display/ai/directional/north,
+/obj/item/stock_parts/subspace/amplifier{
+	pixel_y = -6
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"YU" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Za" = (
+/obj/item/book/manual/wiki/security_space_law{
+	name = "space law";
+	pixel_y = 2
+	},
+/obj/item/toy/gun,
+/obj/item/restraints/handcuffs,
+/obj/structure/table/wood,
+/obj/item/clothing/head/collectable/hos{
+	name = "novelty HoS hat"
+	},
+/obj/machinery/firealarm/directional/east,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+"Zb" = (
+/obj/structure/broken_flooring/singular/directional/east,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Zc" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/bar,
+/obj/structure/barricade/sandbags,
+/obj/structure/railing,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Zh" = (
+/obj/item/stack/sheet/iron,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Zi" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/item/surgicaldrill,
+/turf/open/indestructible/meat,
+/area/awaymission/secret/powered)
+"Zl" = (
+/obj/item/clothing/head/utility/hardhat,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Zm" = (
+/obj/item/storage/belt/utility,
+/obj/item/radio/off,
+/obj/item/radio/off,
+/obj/item/radio/off,
+/obj/structure/rack,
+/obj/effect/turf_decal/bot{
+	dir = 1
+	},
+/obj/machinery/button/door/directional/south{
+	name = "Gateway Shutter Control"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Zp" = (
+/obj/structure/fluff/paper/stack{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Zq" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/item/pickaxe/rusted,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Zu" = (
+/obj/item/flashlight/lamp/green{
+	pixel_x = -6;
+	pixel_y = -5
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"Zx" = (
+/obj/machinery/firealarm/directional/south,
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/decal/cleanable/shreds,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ZC" = (
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ZD" = (
+/obj/structure/chair/sofa/bench/solo,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ZF" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/item/clothing/head/cone{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ZG" = (
+/obj/structure/alien/weeds,
+/obj/structure/barricade/wooden,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ZH" = (
+/obj/machinery/light/directional/north,
+/obj/machinery/status_display/evac/directional/north,
+/obj/effect/turf_decal/tile/neutral/half/contrasted{
+	dir = 1
+	},
+/obj/item/banner/security,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ZK" = (
+/obj/machinery/door/firedoor,
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor4"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ZM" = (
+/obj/machinery/light/small/directional/south,
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ZP" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/grille/broken,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ZR" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ZS" = (
+/obj/machinery/light/directional/south,
+/obj/machinery/firealarm/directional/south,
+/obj/structure/rack,
+/obj/item/storage/briefcase/secure,
+/obj/effect/turf_decal/tile/blue/half/contrasted{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ZT" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/structure/barricade/sandbags,
+/turf/open/floor/plating,
+/area/awaymission/secret/powered)
+"ZV" = (
+/obj/machinery/door/firedoor,
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"ZY" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/effect/spawner/random/decoration/showcase,
+/obj/structure/window/reinforced/spawner/directional/south,
+/turf/open/floor/carpet,
+/area/awaymission/secret/powered)
+
+(1,1,1) = {"
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uz
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uz
+uP
+uP
+uP
+uP
+uP
+uP
+uz
+uz
+uz
+"}
+(2,1,1) = {"
+uz
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+vN
+vN
+vN
+vN
+vN
+Ao
+Ao
+Ao
+Ao
+Ao
+uP
+uP
+uP
+Ao
+Ao
+oS
+Ao
+uP
+uz
+uz
+uz
+"}
+(3,1,1) = {"
+uz
+uP
+vN
+vN
+vN
+vN
+wD
+wD
+wD
+vN
+vN
+vN
+Ao
+Ao
+Ao
+Ao
+LB
+Ao
+Ao
+Ao
+wD
+vN
+vN
+wD
+Ao
+zA
+rh
+TP
+Ao
+Ao
+Ao
+Ao
+Ao
+kv
+gb
+Ao
+uP
+uz
+uz
+uz
+"}
+(4,1,1) = {"
+uz
+uP
+vN
+vN
+vN
+Cn
+cK
+Uj
+vN
+vN
+vN
+KF
+gk
+eA
+SY
+iQ
+MZ
+iQ
+Lg
+hh
+vN
+vN
+dU
+xK
+En
+iQ
+iQ
+kU
+ro
+Vt
+Fc
+zq
+IB
+tV
+VO
+Ao
+uP
+uP
+uz
+uz
+"}
+(5,1,1) = {"
+uz
+uP
+Ao
+vN
+DF
+IL
+KT
+hw
+IL
+Pq
+pT
+IL
+Sz
+pc
+mI
+pE
+SR
+pT
+KT
+tR
+GQ
+JD
+Zp
+pT
+sZ
+Rj
+IL
+Ty
+kd
+pP
+IL
+pc
+IL
+dC
+LV
+Ao
+Ao
+uP
+uz
+uz
+"}
+(6,1,1) = {"
+uP
+uP
+oS
+Ol
+hw
+Nm
+lY
+RL
+RL
+RL
+RR
+bm
+Wv
+Nm
+on
+FS
+tS
+RL
+ZV
+RL
+Cz
+YU
+RL
+YU
+cj
+km
+Ah
+HP
+pN
+vo
+kt
+YU
+YU
+IL
+hG
+ez
+wD
+uP
+uz
+uz
+"}
+(7,1,1) = {"
+uP
+Qp
+Qp
+xj
+GT
+RL
+Ao
+yP
+Rl
+Rl
+Gx
+Qp
+Qp
+PG
+Qp
+Qp
+ac
+Qp
+Qp
+Ao
+sA
+hg
+ST
+Eu
+Qp
+Qp
+Qp
+Qp
+Qp
+Qp
+Qp
+Qp
+AR
+IL
+Ui
+RJ
+BJ
+uP
+uz
+uz
+"}
+(8,1,1) = {"
+uP
+Qp
+kn
+ld
+IL
+pD
+Ao
+Ao
+rQ
+cZ
+Ao
+Qp
+Es
+Zu
+CA
+pQ
+lk
+yM
+Qp
+Sa
+Ao
+eV
+iQ
+Qp
+sm
+JK
+hR
+Hw
+Fl
+Yc
+bs
+Qp
+KR
+hG
+lu
+Rg
+wD
+uP
+uz
+uz
+"}
+(9,1,1) = {"
+uP
+wD
+TP
+Cw
+dD
+Wh
+Ao
+Kh
+Gk
+gU
+pT
+UJ
+yM
+EV
+No
+cI
+FN
+lD
+cz
+Gx
+cw
+zj
+Ss
+hF
+mW
+kN
+eX
+MG
+NN
+vy
+uB
+Cs
+fK
+dC
+Kf
+Ao
+BJ
+uP
+uz
+uz
+"}
+(10,1,1) = {"
+uP
+Qp
+TP
+KW
+KT
+yD
+Ao
+nY
+GS
+pT
+lD
+Qp
+Kl
+dX
+XK
+CL
+tI
+EV
+Qp
+oA
+wj
+OC
+uw
+Qp
+fK
+yn
+BF
+mw
+BZ
+Cr
+Ec
+fF
+pp
+Ie
+XI
+BJ
+uP
+uP
+uz
+uz
+"}
+(11,1,1) = {"
+uP
+Qp
+Qp
+HS
+fC
+uS
+Ao
+UJ
+ba
+ML
+DP
+Qp
+Qp
+Qp
+Qp
+rb
+AD
+jk
+Qp
+Wl
+JR
+lt
+iQ
+si
+Ml
+ED
+ED
+El
+wq
+qr
+dA
+Cs
+CC
+Il
+sc
+Ao
+uP
+uz
+uz
+uz
+"}
+(12,1,1) = {"
+uP
+uP
+Qp
+tf
+DM
+Kw
+Ao
+Ao
+Ur
+VD
+lD
+Ao
+aA
+Qp
+OV
+Bh
+Bj
+YA
+Qp
+GA
+OD
+SY
+Er
+Qp
+dk
+SG
+LJ
+Ao
+zL
+JK
+Ux
+Qp
+Ax
+yh
+WF
+BJ
+uP
+uP
+uz
+uz
+"}
+(13,1,1) = {"
+uz
+uP
+vA
+mj
+VH
+lJ
+Ao
+Kn
+fz
+oM
+db
+rz
+To
+Qp
+TJ
+OU
+lk
+zE
+cz
+Te
+eZ
+ps
+KQ
+Qp
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Qp
+AP
+XI
+pK
+Ao
+BJ
+uP
+uz
+uz
+"}
+(14,1,1) = {"
+uz
+uP
+Qp
+mc
+Gs
+pL
+IU
+Tm
+dz
+lD
+ww
+nW
+aw
+Qp
+RT
+bg
+Ed
+yE
+kW
+lL
+yB
+Qc
+NW
+Qp
+Pk
+up
+Mu
+qY
+ay
+im
+Xj
+Qp
+CK
+ie
+Zi
+sF
+wD
+uP
+uz
+uz
+"}
+(15,1,1) = {"
+uz
+uP
+Qp
+kx
+Dp
+Zx
+Ao
+Qp
+Yd
+Qp
+Qp
+Ao
+au
+Qp
+FV
+TH
+nS
+SP
+Qp
+jD
+Qp
+vt
+iQ
+Qp
+SC
+Pg
+AN
+bZ
+Ll
+Gm
+uB
+KP
+mo
+Mz
+nZ
+XN
+XD
+uP
+uz
+uz
+"}
+(16,1,1) = {"
+uz
+uP
+Ao
+Uv
+bP
+Ay
+HX
+an
+an
+an
+Qp
+Qp
+Oq
+Qp
+Ao
+Ao
+Yn
+Ao
+Qp
+Qp
+Cd
+IY
+Ox
+kR
+IH
+vI
+iA
+vn
+Sj
+Pg
+dA
+HM
+fK
+Hg
+RE
+sB
+XD
+uP
+uz
+uz
+"}
+(17,1,1) = {"
+uP
+uP
+Ao
+LS
+IL
+sI
+Yd
+pJ
+an
+an
+HC
+sf
+ny
+jR
+cD
+aT
+Rz
+ep
+iI
+MM
+Vr
+OC
+VP
+Qp
+Gq
+ub
+AV
+Ll
+sX
+Fg
+gb
+Qp
+Ue
+pu
+iv
+PY
+wD
+uP
+uz
+uz
+"}
+(18,1,1) = {"
+uP
+Ao
+Ao
+tw
+IL
+uX
+Qq
+lD
+oy
+HC
+Qp
+ze
+Yl
+MM
+GD
+pR
+tu
+AM
+Fj
+dE
+Vr
+cW
+jm
+Qp
+Qp
+HX
+vW
+vI
+vI
+Ao
+Ao
+Qp
+wH
+Cb
+Uq
+pV
+Ao
+uP
+uz
+uz
+"}
+(19,1,1) = {"
+uP
+Qp
+yt
+Xn
+Ox
+gg
+lD
+lD
+ZP
+lD
+xI
+jX
+Mt
+Mq
+il
+Ao
+Ao
+Ao
+bO
+Ao
+Qp
+tl
+iQ
+HX
+an
+an
+rr
+YN
+LK
+ZG
+uf
+Bw
+RB
+IL
+pT
+sS
+SN
+uP
+uz
+uz
+"}
+(20,1,1) = {"
+uP
+wD
+AC
+hw
+IL
+ug
+ug
+gg
+mi
+gg
+tW
+lD
+JP
+xV
+ZS
+Ao
+re
+rt
+MM
+hZ
+Qp
+Yo
+pH
+Qp
+Yd
+Yd
+Qp
+FR
+aQ
+Ka
+qu
+Qp
+Nu
+Fd
+IL
+TW
+Ao
+uP
+uz
+uz
+"}
+(21,1,1) = {"
+uP
+Qp
+ZH
+uk
+NG
+RL
+Wm
+tW
+Os
+WL
+IS
+Nl
+Mq
+iH
+hd
+Ao
+Ao
+Of
+FN
+te
+Qp
+RX
+Bn
+OS
+jt
+iQ
+rr
+vf
+Xp
+JG
+EV
+mt
+lK
+ei
+NG
+sS
+Ao
+uP
+uz
+uz
+"}
+(22,1,1) = {"
+uP
+ii
+yz
+Qg
+QA
+uT
+HX
+pJ
+Qp
+Cy
+JP
+Mn
+Uz
+id
+Nz
+MF
+Ao
+bU
+lk
+VT
+yN
+lK
+IL
+GG
+Oh
+cN
+Qp
+ck
+Pa
+oD
+pB
+Qp
+zQ
+VQ
+pW
+ZM
+tF
+uP
+uz
+uz
+"}
+(23,1,1) = {"
+uP
+Oi
+kp
+zP
+xu
+RL
+Yd
+an
+HC
+wL
+Yl
+MM
+qk
+MM
+FN
+cp
+Ao
+ZD
+lb
+LP
+yN
+wo
+Ar
+jC
+Zh
+zw
+Qp
+pA
+lM
+Bp
+LD
+HH
+Yv
+Ox
+nP
+LL
+Ao
+uP
+uz
+uz
+"}
+(24,1,1) = {"
+uP
+Oi
+kp
+hX
+Vw
+bW
+HX
+an
+HC
+rP
+ZR
+BN
+kg
+zo
+zx
+AD
+iy
+MM
+yH
+Dx
+oI
+ZF
+bP
+Km
+DF
+MS
+mt
+EV
+tW
+Io
+lD
+mR
+oQ
+fD
+Cx
+RV
+Ao
+uP
+uz
+uz
+"}
+(25,1,1) = {"
+uP
+Oi
+kp
+hX
+PU
+iQ
+Yd
+an
+HC
+wL
+MM
+nw
+se
+xW
+lk
+Ad
+Ao
+Ls
+lk
+lG
+lD
+Wm
+my
+IL
+Oj
+Vz
+Qp
+Kv
+aC
+lD
+gC
+tW
+lD
+Kr
+yq
+Fw
+Ao
+uP
+uz
+uz
+"}
+(26,1,1) = {"
+uP
+LB
+rs
+hX
+gt
+Xx
+HX
+ET
+Qp
+Sl
+ZC
+wY
+YG
+Gr
+yx
+Or
+Ao
+Ht
+FN
+bR
+PT
+MP
+Ar
+GG
+Fp
+xe
+Qp
+bS
+lD
+fB
+wP
+Qp
+hX
+hX
+Ca
+to
+mf
+uP
+uz
+uz
+"}
+(27,1,1) = {"
+uP
+Ao
+yy
+BK
+di
+Mb
+Yd
+cO
+HC
+DW
+er
+MM
+rJ
+VG
+Wf
+Ao
+Ao
+jd
+Ny
+Bg
+Qp
+br
+WH
+rW
+zw
+nz
+LG
+ra
+EV
+yK
+aC
+mt
+lK
+qP
+EF
+nO
+Ao
+uP
+uz
+uz
+"}
+(28,1,1) = {"
+uP
+Ao
+th
+IL
+IL
+ix
+Yd
+an
+HC
+vK
+uH
+FI
+Ms
+KN
+Yt
+Ao
+re
+ux
+dl
+wi
+Qp
+oH
+Mj
+Qp
+HX
+HX
+Qp
+Hd
+aC
+TC
+lE
+Qp
+Jh
+IL
+eB
+Lu
+fQ
+uP
+uz
+uz
+"}
+(29,1,1) = {"
+uP
+Ao
+dc
+Mo
+IL
+Ss
+HX
+an
+HC
+bb
+zb
+Vk
+zB
+XM
+at
+Ao
+Ao
+Ao
+bO
+Ao
+Qp
+RI
+RL
+Yd
+an
+an
+rr
+ZY
+oO
+Cg
+Za
+HH
+Iw
+IL
+IL
+ss
+SN
+uP
+uP
+uP
+"}
+(30,1,1) = {"
+uP
+Ao
+Ao
+ut
+IL
+pb
+HX
+an
+HC
+HC
+Qp
+SK
+KA
+tk
+ul
+aT
+yw
+Mq
+Mq
+oo
+Vr
+YU
+vU
+Qp
+Qp
+HX
+Qp
+Ao
+Ao
+Ao
+Ao
+Qp
+Ua
+EQ
+hT
+Oe
+uD
+Ao
+Ao
+uP
+"}
+(31,1,1) = {"
+uP
+uP
+Ao
+Mm
+uY
+Xa
+Yd
+an
+an
+Hv
+HC
+qI
+Bv
+vM
+DU
+pR
+tM
+Nh
+Fj
+Fj
+Vr
+RG
+uA
+Rx
+Ff
+LN
+tq
+pd
+DV
+UF
+vO
+Qp
+OC
+IL
+gj
+hc
+Jm
+vN
+uP
+uP
+"}
+(32,1,1) = {"
+uz
+uP
+wD
+RD
+DF
+xd
+HX
+an
+jG
+an
+Qp
+Qp
+Qp
+hi
+wB
+Qp
+Qp
+Qp
+eR
+Qp
+Cd
+YU
+Ox
+Rx
+jx
+Ca
+Gy
+HG
+Gy
+mO
+wl
+Qp
+hj
+cC
+bd
+jc
+Ij
+vN
+uP
+uz
+"}
+(33,1,1) = {"
+uz
+uP
+Oi
+RD
+Lz
+Hh
+Qp
+Qp
+Qp
+Qp
+Qp
+rq
+Qp
+Qp
+Qp
+Qp
+wA
+wN
+lk
+hp
+Qp
+ok
+RL
+hX
+op
+Ve
+Ra
+nq
+Cc
+Ec
+ge
+Qp
+tO
+Hb
+YD
+fN
+sr
+vN
+uP
+uz
+"}
+(34,1,1) = {"
+uz
+uP
+Ao
+hb
+fn
+YQ
+Qp
+Py
+PP
+qz
+Ao
+QQ
+Ao
+ht
+BP
+Yg
+pv
+gF
+FN
+FN
+eR
+Zb
+zT
+Qp
+dZ
+kK
+PQ
+hz
+ej
+dA
+Zm
+Qp
+tl
+gj
+yI
+SJ
+Jm
+vN
+uP
+uz
+"}
+(35,1,1) = {"
+uz
+uP
+Ao
+wn
+Lh
+aO
+Qp
+ry
+sa
+gE
+Ao
+vV
+Ao
+FA
+EV
+TC
+mQ
+Mr
+Mr
+AA
+Qp
+lC
+rv
+Qp
+Qp
+TT
+TT
+Qp
+Yd
+yO
+Yd
+Qp
+rf
+bd
+Yi
+JL
+uD
+vN
+uP
+uz
+"}
+(36,1,1) = {"
+uz
+uP
+Ao
+UP
+KT
+OE
+Qp
+xb
+XJ
+Iq
+Ao
+MJ
+Ao
+tj
+XW
+dd
+lk
+ty
+qL
+bT
+Qp
+YU
+dY
+Dk
+Qp
+FC
+mq
+UT
+SF
+MN
+lQ
+AX
+fK
+Un
+Xw
+eD
+uD
+vN
+uP
+uz
+"}
+(37,1,1) = {"
+uz
+uP
+wD
+YU
+IL
+iQ
+ZT
+kc
+yM
+ki
+vw
+TC
+QN
+Ir
+PC
+ud
+tW
+sa
+FT
+Nr
+Qp
+Kq
+Ii
+DQ
+Qp
+YR
+FF
+cH
+gb
+IL
+Ec
+AX
+fK
+aV
+mK
+yc
+Ag
+vN
+uP
+uz
+"}
+(38,1,1) = {"
+uz
+uP
+Oi
+YU
+IL
+Qq
+zO
+jy
+qS
+Sr
+fh
+TC
+Ao
+SH
+FK
+Fh
+lD
+lD
+pX
+Nq
+Qp
+Dc
+RL
+jz
+Qp
+rj
+Om
+vg
+DC
+od
+FO
+AX
+fK
+bd
+NZ
+CJ
+jF
+vN
+uP
+uz
+"}
+(39,1,1) = {"
+uz
+uP
+Oi
+lD
+hw
+sz
+jy
+tW
+jy
+iZ
+OX
+Xs
+Ao
+Ao
+Qp
+Qp
+iK
+vi
+lD
+Qp
+Qp
+YU
+FZ
+Qp
+Qp
+Qp
+Qp
+Qp
+Qp
+EH
+Qp
+Qp
+Ov
+gj
+eD
+WM
+rO
+vN
+uP
+uz
+"}
+(40,1,1) = {"
+uz
+uP
+wD
+Ox
+IL
+Zl
+jy
+Hc
+QM
+jy
+EC
+eG
+Ao
+Ji
+Qp
+dP
+tW
+DO
+ey
+eu
+ja
+YU
+RL
+ja
+Tm
+eN
+lD
+bw
+tW
+as
+uq
+ja
+OC
+IL
+mP
+uD
+ND
+vN
+uP
+uz
+"}
+(41,1,1) = {"
+uz
+uP
+RZ
+YU
+IL
+wa
+hU
+jy
+jy
+lU
+KM
+Qp
+Qp
+Uo
+Qp
+ja
+Ao
+Ao
+Ao
+Ao
+Qw
+mb
+cr
+LB
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+MC
+IL
+Ou
+Ao
+uD
+vN
+uP
+uz
+"}
+(42,1,1) = {"
+uz
+uP
+Ao
+IC
+IL
+iQ
+Qq
+lv
+Ne
+Oc
+IJ
+Ys
+EK
+Zq
+En
+Qm
+bf
+TL
+av
+Qh
+Sx
+OC
+Lm
+OC
+BM
+DA
+fP
+NR
+OC
+FG
+yC
+Yf
+yT
+Pd
+cx
+wu
+vN
+vN
+uP
+uz
+"}
+(43,1,1) = {"
+uz
+uP
+Ao
+YU
+rC
+hw
+IL
+KT
+Lh
+lD
+IL
+tW
+hw
+KT
+pr
+bl
+kI
+XL
+lN
+tW
+IL
+IL
+IL
+Dl
+KT
+Sz
+rC
+Dl
+Wt
+yT
+yT
+Gn
+yT
+lT
+fj
+Gi
+vN
+uP
+uP
+uz
+"}
+(44,1,1) = {"
+uz
+uP
+Ao
+YU
+HP
+vo
+YU
+Yr
+Bd
+PR
+PR
+Vs
+Sm
+fG
+AQ
+Od
+vN
+vN
+kM
+IM
+AQ
+fc
+cB
+Zc
+ZK
+cF
+qv
+TN
+st
+vN
+vN
+qJ
+iY
+yT
+wV
+ek
+vN
+uP
+uz
+uz
+"}
+(45,1,1) = {"
+uz
+uP
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Hl
+Hl
+Hl
+Ao
+Ao
+wD
+wD
+vN
+vN
+vN
+wD
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+Ao
+vN
+vN
+Ao
+wD
+vN
+vN
+vN
+uP
+uz
+uz
+"}
+(46,1,1) = {"
+uz
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uP
+uz
+uz
+"}

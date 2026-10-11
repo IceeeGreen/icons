@@ -1,0 +1,1193 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"an" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ax" = (
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"cd" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"dE" = (
+/turf/closed/indestructible/fakedoor,
+/area/awaymission/secret/powered)
+"dP" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"ea" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/sign/painting/large{
+	dir = 1;
+	persistence_id = "museumgate_big"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"eq" = (
+/obj/effect/turf_decal/bot,
+/obj/effect/landmark{
+	name = "ph_lobby_spawn"
+	},
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"fb" = (
+/obj/effect/spawner/random/vending/colavend,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"fs" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/structure/fluff/fake_camera,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"gu" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/item/reagent_containers/cup/soda_cans/sol_dry,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hs" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hy" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"hG" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hJ" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/machinery/light/warm/directional/east,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"hZ" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/spawner/random/trash/cigbutt,
+/obj/structure/fluff/fake_camera{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iF" = (
+/obj/effect/spawner/random/vending/snackvend,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"iW" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/sign/painting{
+	pixel_y = 32;
+	persistence_id = "museumgate";
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"iX" = (
+/obj/structure/hedge/opaque,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/structure/fluff/fake_camera{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jp" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 8
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jw" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"jL" = (
+/obj/machinery/light/warm/dim/directional/north,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"jV" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"kh" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"kl" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/obj/structure/chair/sofa/bench/right{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"lu" = (
+/obj/machinery/vending/coffee,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"lS" = (
+/obj/structure/fluff/fake_vent,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"nA" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"oR" = (
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"pJ" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"pP" = (
+/obj/effect/turf_decal/bot/left,
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"qa" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"rx" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/structure/fluff/wallsign/directional/south{
+	name = "Oddities";
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 8;
+	id = "museum_right_wing"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"sf" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"sC" = (
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 8;
+	id = "museum_right_wing"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"tg" = (
+/obj/structure/fluff/wallsign/directional/west{
+	name = "History of Nanotrasen"
+	},
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/machinery/light/warm/directional/west,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uh" = (
+/obj/structure/hedge/opaque,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uK" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/item/storage/box/stickers/googly,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"uQ" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 4;
+	id = "nothing"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"vk" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 4;
+	id = "nothing"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"wa" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"wn" = (
+/obj/machinery/status_display/random_message{
+	firstline_to_secondline = list(SOUVENIR="SHOP")
+	},
+/turf/closed/indestructible/reinforced,
+/area/awaymission/secret/powered)
+"wJ" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/sign/painting/large{
+	dir = 1;
+	persistence_id = "museumgate_big"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"xn" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"xv" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/sign/painting{
+	pixel_y = 32;
+	persistence_id = "museumgate";
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"yn" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"yO" = (
+/obj/structure/fluff/fake_scrubber,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"yZ" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zn" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/fluff/wallsign/directional/west{
+	name = "Exit";
+	dir = 2
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zr" = (
+/obj/structure/fluff/fake_camera{
+	dir = 5
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"zN" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zO" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"zW" = (
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ah" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"AP" = (
+/turf/closed/indestructible/reinforced,
+/area/awaymission/secret/powered)
+"AR" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Cg" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"CY" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Db" = (
+/obj/structure/hedge/opaque,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/structure/fluff/fake_camera{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"DI" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"DP" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Ez" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/item/toy/balloon/corgi,
+/obj/machinery/status_display/random_message{
+	pixel_x = 32;
+	firstline_to_secondline = list(NO="LITTERING", "YOU ARE"="BEING WATCHED", "DO NOT TOUCH"="THE EXHIBITS")
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ft" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/spawner/random/entertainment/dice,
+/obj/structure/fluff/fake_camera{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Fy" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"FC" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"GK" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"HV" = (
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "museum_secret"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Ij" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench/right{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Iu" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/structure/fluff/wallsign/directional/east{
+	name = "Exit";
+	dir = 2
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"IF" = (
+/turf/template_noop,
+/area/awaymission/secret/powered)
+"IG" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/item/reagent_containers/cup/soda_cans/air,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"IS" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/machinery/light/warm/directional/south,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Jx" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Jy" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Jz" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/machinery/light/warm/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ka" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Kg" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"KB" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"KH" = (
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"Lx" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Mw" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"MC" = (
+/turf/template_noop,
+/area/template_noop)
+"Ne" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Nm" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"OD" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/chair/sofa/bench/left{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"OL" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/structure/chair/sofa/bench{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"OV" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Pl" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"PG" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/fluff/fake_camera{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"QZ" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Rt" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"RG" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"SL" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/left{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Uh" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wideplating{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"Vq" = (
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 4;
+	id = "nothing"
+	},
+/turf/open/floor/iron,
+/area/awaymission/secret/powered)
+"Vw" = (
+/obj/structure/hedge/opaque,
+/obj/effect/turf_decal/tile/neutral/fourcorners,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"VL" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Wa" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "museum_secret"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Wc" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/obj/structure/chair/sofa/bench/right{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Wl" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/machinery/light/warm/directional/south,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ws" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Xj" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"XR" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"XZ" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Ya" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/structure/fluff/wallsign/directional/north{
+	name = "Oddities";
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	dir = 8;
+	id = "museum_right_wing"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"Yh" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Ys" = (
+/obj/effect/turf_decal/bot/right,
+/turf/open/floor/iron/dark/diagonal,
+/area/awaymission/secret/powered)
+"YI" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/indestructible{
+	id = "museum_secret"
+	},
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+"YP" = (
+/obj/structure/hedge,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/grass,
+/area/awaymission/secret/powered)
+"Zm" = (
+/obj/structure/fluff/wallsign/directional/west{
+	name = "History of Nanotrasen"
+	},
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/machinery/light/warm/directional/west,
+/turf/open/floor/iron/dark,
+/area/awaymission/secret/powered)
+
+(1,1,1) = {"
+MC
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+uQ
+Vq
+vk
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+IF
+"}
+(2,1,1) = {"
+AP
+AP
+uh
+Ft
+uK
+IG
+uh
+AP
+RG
+oR
+zN
+AP
+uh
+uh
+uh
+uh
+uh
+AP
+AP
+"}
+(3,1,1) = {"
+AP
+Vw
+uh
+kl
+Kg
+SL
+qa
+tg
+xn
+oR
+XR
+Zm
+hs
+Jx
+Jx
+Wc
+uh
+uh
+AP
+"}
+(4,1,1) = {"
+AP
+iW
+XZ
+Rt
+Cg
+oR
+Cg
+Cg
+oR
+oR
+oR
+oR
+oR
+oR
+Cg
+XR
+an
+uh
+AP
+"}
+(5,1,1) = {"
+AP
+wJ
+RG
+oR
+lS
+Cg
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+yO
+oR
+OL
+iX
+AP
+"}
+(6,1,1) = {"
+AP
+jV
+RG
+oR
+oR
+lu
+DI
+Ne
+Yh
+Yh
+Mw
+Ne
+wa
+iF
+oR
+oR
+OL
+uh
+AP
+"}
+(7,1,1) = {"
+AP
+iW
+RG
+oR
+oR
+DI
+Ka
+ax
+hy
+ax
+ax
+ax
+KB
+wa
+oR
+oR
+Ij
+uh
+AP
+"}
+(8,1,1) = {"
+AP
+AP
+Jz
+oR
+oR
+Xj
+DP
+Nm
+DP
+QZ
+hy
+ax
+ax
+GK
+Cg
+oR
+IS
+AP
+AP
+"}
+(9,1,1) = {"
+YI
+PG
+Rt
+oR
+oR
+Uh
+Ys
+KH
+pP
+Lx
+ax
+ax
+hy
+VL
+Cg
+oR
+XR
+zn
+YI
+"}
+(10,1,1) = {"
+HV
+Cg
+oR
+oR
+zr
+AP
+jL
+eq
+KH
+Lx
+hy
+ax
+ax
+OV
+Cg
+Cg
+oR
+oR
+HV
+"}
+(11,1,1) = {"
+Wa
+hG
+yn
+oR
+oR
+Uh
+pP
+KH
+Ys
+Lx
+ax
+hy
+hy
+VL
+Cg
+oR
+cd
+Iu
+Wa
+"}
+(12,1,1) = {"
+AP
+AP
+Jz
+Cg
+oR
+DI
+Fy
+Yh
+Yh
+AR
+ax
+ax
+ax
+GK
+Cg
+oR
+Wl
+AP
+AP
+"}
+(13,1,1) = {"
+AP
+xv
+sf
+Cg
+oR
+Xj
+YP
+hy
+ax
+hy
+hy
+ax
+pJ
+nA
+Cg
+oR
+Ws
+uh
+wn
+"}
+(14,1,1) = {"
+AP
+ea
+RG
+oR
+oR
+fb
+Xj
+kh
+DP
+DP
+DP
+kh
+nA
+lu
+oR
+oR
+Ws
+OD
+AP
+"}
+(15,1,1) = {"
+AP
+zW
+RG
+oR
+yO
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+lS
+oR
+Ws
+zO
+AP
+"}
+(16,1,1) = {"
+AP
+xv
+Jy
+yZ
+oR
+Cg
+Cg
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+oR
+FC
+jw
+Pl
+dE
+"}
+(17,1,1) = {"
+AP
+Vw
+uh
+jp
+dP
+CY
+hG
+hJ
+yZ
+oR
+cd
+hJ
+Ah
+Ah
+Ah
+jw
+uh
+uh
+AP
+"}
+(18,1,1) = {"
+AP
+AP
+uh
+hZ
+Ez
+gu
+uh
+AP
+RG
+oR
+fs
+AP
+uh
+uh
+Db
+uh
+uh
+AP
+AP
+"}
+(19,1,1) = {"
+MC
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+Ya
+sC
+rx
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+MC
+"}
