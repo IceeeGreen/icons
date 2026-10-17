@@ -1914,7 +1914,6 @@
 /obj/machinery/firealarm/directional/west,
 /obj/structure/alien/weeds,
 /obj/structure/alien/weeds/node,
-/obj/effect/mob_spawn/corpse/human/assistant/brainrot_infection,
 /turf/open/floor/plating,
 /area/awaymission/secret/powered)
 "ra" = (
@@ -5577,11 +5576,6 @@
 /obj/machinery/digital_clock/directional/south,
 /turf/open/floor/iron/dark,
 /area/awaymission/secret/powered)
-"Wh" = (
-/obj/effect/turf_decal/tile/neutral,
-/mob/living/basic/bot/cleanbot/autopatrol,
-/turf/open/floor/iron,
-/area/awaymission/secret/powered)
 "Wl" = (
 /obj/effect/turf_decal/bot,
 /obj/machinery/digital_clock/directional/north,
@@ -6380,7 +6374,7 @@ wD
 TP
 Cw
 dD
-Wh
+RL
 Ao
 Kh
 Gk
