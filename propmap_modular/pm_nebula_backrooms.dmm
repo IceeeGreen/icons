@@ -1346,9 +1346,7 @@
 /turf/open/misc/dirt/station,
 /area/awaymission/secret/powered)
 "Nz" = (
-/mob/living/basic/clown/longface{
-	ai_controller = null
-	},
+/obj/item/clothing/mask/gas/sexyclown,
 /turf/open/floor/mineral/bananium/airless,
 /area/awaymission/secret/powered)
 "NK" = (
